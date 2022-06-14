@@ -1,0 +1,15 @@
+{
+  "name": "hoax-radar",
+  "version": "1.0.1",
+  "main": "index.js",
+  "repository": "git@github.com:tiborsaas/hoax-radar.git",
+  "author": "Tibor Szasz <tszasz@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "fs-extra": "^10.1.0",
+    "js-yaml": "^4.1.0"
+  },
+  "scripts": {
+    "build": "node ./api/generate.js"
+  }
+}
