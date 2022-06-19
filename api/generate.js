@@ -17,6 +17,9 @@ const storeData = (data, path) => {
 }
 
 const createStaticSite = () => {
+  if (!fs.existsSync(SITE_TARGET)){
+    fs.mkdirSync(SITE_TARGET);
+  }
   fs.copy(SITE_SOURCE, SITE_TARGET, function (err) {
     if (err) {
       console.error(err);
