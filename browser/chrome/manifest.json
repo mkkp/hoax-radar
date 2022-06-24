@@ -20,11 +20,10 @@
         "16": "icon-16.png",
         "48": "icon-48.png"
     },
-    "manifest_version": 2,
+    "manifest_version": 3,
     "name": "MKKP Hoax Radar",
     "permissions": [
-        "tabs",
-        "https://mkkp-hoax-radar.lazos.me/"
+        "tabs"
     ],
     "version": "0.2.0"
 }

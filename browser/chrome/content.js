@@ -1,4 +1,4 @@
-const baseUrl = "https://mkkp-hoax-radar.lazos.me/";
+const baseUrl = "https://hoax-radar.netlify.app/blacklist.json";
 let MKKP_BLACKLIST = [];
 
 /**
@@ -6,7 +6,7 @@ let MKKP_BLACKLIST = [];
  */
 window.addEventListener('DOMContentLoaded', e => {
   const xhr = new XMLHttpRequest();
-  xhr.open("GET", baseUrl + "blacklist/", true);
+  xhr.open("GET", baseUrl, true);
   xhr.onreadystatechange = function () {
     if (xhr.readyState === 4) {
       const hostname = window.location.hostname;
@@ -19,9 +19,10 @@ window.addEventListener('DOMContentLoaded', e => {
       }
 
       blacklist.forEach(item => {
-        const domain = unescape(item.domain);
-
-        if (window.location.href.indexOf(trimSlash(domain)) > -1 || hostname === domain) {
+        const domain = item.domain;
+        const hostname = cleanHost(window.location.host);
+        console.log(domain, hostname);
+        if (hostname === domain) {
           displayOverlay(item.alert, item.image, item.auditor);
         }
       });
@@ -30,6 +31,9 @@ window.addEventListener('DOMContentLoaded', e => {
   xhr.send();
 });
 
+function cleanHost(hostName) {
+  return hostName.startsWith('www') ? hostName.substr(4) : hostName;
+}
 
 /**
  * Checks if string ends with / and removes it
@@ -88,7 +92,7 @@ function getOverlayHTML(alertText, image, auditor) {
           Ha valami kimaradt a listából, <a href="https://docs.google.com/forms/d/e/1FAIpQLScPkkWxC4Af0vqNJi0Mz6yu5-aX6vdcrBNFmc08COS7-LMFXA/viewform" target="_blank">itt tudod nekünk elküldeni</a>!
       </div>
       <div id="mkkp-hoax-radar-close" onclick="var element = document.getElementById('mkkp-hoax-radar-overlay'); element.outerHTML = '';">
-          X
+      ×
       </div>
   </div>`;
 }
