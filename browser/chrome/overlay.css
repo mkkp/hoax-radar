@@ -1,4 +1,3 @@
-
 @keyframes mkkp_hoax_radar_blinker {
     50% {
         opacity: 0.0;
@@ -38,6 +37,12 @@
     bottom: -4px;
     left: 0;
     right: 0;
+}
+
+#mkkp-hoax-radar-dance img {
+    max-width: initial !important;
+    width: initial !important;
+    height: initial !important;
 }
 
 #mkkp-hoax-radar-link {
