@@ -1,2373 +1,2365 @@
 ---
 - domain: 888.hu
-  image: https://mkkp.lazos.me/putinalert/dance.gif
+  image: putin
   alert: PUTIN ALERT!
   auditor: mkkp.hu
 - domain: a-znewsonline.com
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/05/Dancing-Lizard-Man.gif
+  image: lizard
   alert: VÍRUS!!!!!
   auditor: mkkp.hu
 - domain: abtds.me
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/05/Dancing-Lizard-Man.gif
+  image: lizard
   alert: HOAX ALERT!
   auditor: mkkp.hu
 - domain: adatlistazo.hu
-  image: https://mkkp.lazos.me/putinalert/dance.gif
+  image: putin
   alert: PUTIN ALERT!
   auditor: mkkp.hu
 - domain: aktiv-blog.com
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/05/Dancing-Lizard-Man.gif
+  image: lizard
   alert: HOAX ALERT!
   auditor: mkkp.hu
 - domain: aktiv-hirek.net
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/05/Dancing-Lizard-Man.gif
+  image: lizard
   alert: HOAX ALERT!
   auditor: mkkp.hu
 - domain: alternativhirek.blogspot.com
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/05/Dancing-Lizard-Man.gif
+  image: lizard
   alert: HOAX ALERT!
   auditor: mkkp.hu
 - domain: alternativhirek.blogspot.hu
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/05/Dancing-Lizard-Man.gif
+  image: lizard
   alert: HOAX ALERT!
   auditor: mkkp.hu
 - domain: anephangja.com
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/05/Dancing-Lizard-Man.gif
+  image: lizard
   alert: HOAX ALERT!
   auditor: mkkp.hu
 - domain: anephangja.com
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/05/Dancing-Lizard-Man.gif
+  image: lizard
   alert: HOAX ALERT!
   auditor: mkkp.hu
 - domain: atomenergiainfo.hu
-  image: https://mkkp.lazos.me/putinalert/dance.gif
+  image: putin
   alert: PUTIN ALERT!
   auditor: mkkp.hu
 - domain: atudas-faja.hu
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/05/Dancing-Lizard-Man.gif
+  image: lizard
   alert: HOAX ALERT!
   auditor: mkkp.hu
 - domain: avilagma.com
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/05/Dancing-Lizard-Man.gif
+  image: lizard
   alert: HOAX ALERT!
   auditor: mkkp.hu
 - domain: avilagtitkai.com
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/05/Dancing-Lizard-Man.gif
+  image: lizard
   alert: HOAX ALERT!
   auditor: mkkp.hu
 - domain: aztbeszelik.com
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/05/Dancing-Lizard-Man.gif
+  image: lizard
   alert: HOAX ALERT!
   auditor: mkkp.hu
 - domain: badog.blogstar.hu
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/06/orbanWS.gif
+  image: lazar
   alert: KORMÁNYPROPAGANDA ALERT!
   auditor: mkkp.hu
 - domain: balrad.com
-  image: https://mkkp.lazos.me/putinalert/dance.gif
+  image: putin
   alert: PUTIN ALERT!
   auditor: mkkp.hu
 - domain: bama.hu
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/06/orbanWS.gif
+  image: lazar
   alert: KORMÁNYPROPAGANDA ALERT!
   auditor: mkkp.hu
 - domain: bamulat.blogspot.hu
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/05/Dancing-Lizard-Man.gif
+  image: lizard
   alert: HOAX ALERT!
   auditor: mkkp.hu
 - domain: bamulatos.com
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/05/Dancing-Lizard-Man.gif
+  image: lizard
   alert: HOAX ALERT!
   auditor: mkkp.hu
 - domain: baon.hu
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/06/orbanWS.gif
+  image: lazar
   alert: KORMÁNYPROPAGANDA ALERT!
   auditor: mkkp.hu
 - domain: befigyel.com
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/05/Dancing-Lizard-Man.gif
+  image: lizard
   alert: HOAX ALERT!
   auditor: mkkp.hu
 - domain: bejegyzes.com
-  image: https://mkkp.lazos.me/putinalert/dance.gif
+  image: putin
   alert: PUTIN ALERT!
   auditor: mkkp.hu
 - domain: bekezdes.com
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/05/Dancing-Lizard-Man.gif
+  image: lizard
   alert: HOAX ALERT!
   auditor: mkkp.hu
 - domain: bekezdes.org
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/05/Dancing-Lizard-Man.gif
+  image: lizard
   alert: HOAX ALERT!
   auditor: mkkp.hu
 - domain: beol.hu
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/06/orbanWS.gif
+  image: lazar
   alert: KORMÁNYPROPAGANDA ALERT!
   auditor: mkkp.hu
 - domain: best-hir.com
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/05/Dancing-Lizard-Man.gif
+  image: lizard
   alert: HOAX ALERT!
   auditor: mkkp.hu
 - domain: betyarsereg.hu
-  image: https://i.imgur.com/l9JB28v.gif
+  image: lazar
   alert: KORMÁNYPROPAGANDA ALERT!
   auditor: mkkp.hu
 - domain: bewusst-vegan-froh.de
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/05/Dancing-Lizard-Man.gif
+  image: lizard
   alert: HOAX ALERT!
   auditor: mkkp.hu
 - domain: bidista.com
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/05/Dancing-Lizard-Man.gif
+  image: lizard
   alert: HOAX ALERT!
   auditor: mkkp.hu
 - domain: bidista.com
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/05/Dancing-Lizard-Man.gif
+  image: lizard
   alert: HOAX ALERT!
   auditor: mkkp.hu
 - domain: bizalmas.com
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/05/Dancing-Lizard-Man.gif
+  image: lizard
   alert: HOAX ALERT!
   auditor: mkkp.hu
 - domain: bizony.eu
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/05/Dancing-Lizard-Man.gif
+  image: lizard
   alert: HOAX ALERT!
   auditor: mkkp.hu
 - domain: blikkruzs.me
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/05/Dancing-Lizard-Man.gif
+  image: lizard
   alert: HOAX ALERT!
   auditor: mkkp.hu
 - domain: blogmania.hu
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/05/Dancing-Lizard-Man.gif
+  image: lizard
   alert: HOAX ALERT!
   auditor: mkkp.hu
 - domain: boon.hu
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/06/orbanWS.gif
+  image: lazar
   alert: KORMÁNYPROPAGANDA ALERT!
   auditor: mkkp.hu
 - domain: boroskola.info
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/05/Dancing-Lizard-Man.gif
+  image: lizard
   alert: HOAX ALERT!
   auditor: mkkp.hu
-- domain: budapest-1873.info/
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/05/Dancing-Lizard-Man.gif
+- domain: budapest-1873.info
+  image: lizard
   alert: HOAX ALERT!
   auditor: mkkp.hu
 - domain: budapest1873.net
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/05/Dancing-Lizard-Man.gif
+  image: lizard
   alert: HOAX ALERT!
   auditor: mkkp.hu
 - domain: bulvarinfo.com
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/05/Dancing-Lizard-Man.gif
+  image: lizard
   alert: HOAX ALERT!
   auditor: mkkp.hu
 - domain: buzzblog.eu
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/05/Dancing-Lizard-Man.gif
+  image: lizard
   alert: HOAX ALERT!
   auditor: mkkp.hu
-- domain: chronicle.su/
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/05/Dancing-Lizard-Man.gif
+- domain: chronicle.su
+  image: lizard
   alert: HOAX ALERT!
   auditor: mkkp.hu
 - domain: cikkelek.eu
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/05/Dancing-Lizard-Man.gif
+  image: lizard
   alert: HOAX ALERT!
   auditor: mkkp.hu
 - domain: civilhir.net
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/05/Dancing-Lizard-Man.gif
+  image: lizard
   alert: HOAX ALERT!
   auditor: mkkp.hu
 - domain: civilkontroll.com
-  image: https://mkkp.lazos.me/putinalert/dance.gif
+  image: putin
   alert: PUTIN ALERT!
   auditor: mkkp.hu
 - domain: csajos.com
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/05/Dancing-Lizard-Man.gif
+  image: lizard
   alert: HOAX ALERT!
   auditor: mkkp.hu
 - domain: csajszinet.club
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/05/Dancing-Lizard-Man.gif
+  image: lizard
   alert: HOAX ALERT!
   auditor: mkkp.hu
 - domain: csak5perc.com
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/05/Dancing-Lizard-Man.gif
+  image: lizard
   alert: HOAX ALERT!
   auditor: mkkp.hu
 - domain: csakneked.info
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/05/Dancing-Lizard-Man.gif
+  image: lizard
   alert: HOAX ALERT!
   auditor: mkkp.hu
 - domain: csaladtamogatas.info
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/05/Dancing-Lizard-Man.gif
+  image: lizard
   alert: HOAX ALERT!
   auditor: mkkp.hu
 - domain: csucs-videoblog.com
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/05/Dancing-Lizard-Man.gif
+  image: lizard
   alert: HOAX ALERT!
   auditor: mkkp.hu
 - domain: csucsposztok.eu
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/05/Dancing-Lizard-Man.gif
+  image: lizard
   alert: HOAX ALERT!
   auditor: mkkp.hu
 - domain: csumida.com
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/05/Dancing-Lizard-Man.gif
+  image: lizard
   alert: HOAX ALERT!
   auditor: mkkp.hu
 - domain: cvu.hu
-  image: https://i.imgur.com/l9JB28v.gif
+  image: lazar
   alert: KORMÁNYPROPAGANDA ALERT!
   auditor: mkkp.hu
 - domain: debmedia.hu
-  image: https://mkkp.lazos.me/putinalert/dance.gif
+  image: putin
   alert: PUTIN ALERT!
   auditor: mkkp.hu
 - domain: delhir.info
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/05/Dancing-Lizard-Man.gif
+  image: lizard
   alert: HOAX ALERT!
   auditor: mkkp.hu
 - domain: delmagyar.hu
-  image: https://ketfarkukutya.mkkp.party/wp-content/uploads/2020/02/Webp.net-gifmaker.gif?fbclid=IwAR3oN7TzKW2splu1_j_z407BSZiD-t2xQLtTyoZRLzRkhNCVx_Kpd1lxo3s
+  image: lizard
   alert: A LIPSI HOAX IS HOAX!
   auditor: mkkp.hu
 - domain: demokrata.hu
-  image: https://i.imgur.com/l9JB28v.gif
+  image: lazar
   alert: KORMÁNYPROPAGANDA ALERT!
   auditor: mkkp.hu
 - domain: dinamikus.com
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/05/Dancing-Lizard-Man.gif
+  image: lizard
   alert: HOAX ALERT!
   auditor: mkkp.hu
 - domain: dobbenetes.com
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/05/Dancing-Lizard-Man.gif
+  image: lizard
   alert: HOAX ALERT!
   auditor: mkkp.hu
 - domain: dobbenetes.com
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/05/Dancing-Lizard-Man.gif
+  image: lizard
   alert: HOAX ALERT!
   auditor: mkkp.hu
 - domain: dosszie.com
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/05/Dancing-Lizard-Man.gif
+  image: lizard
   alert: HOAX ALERT!
   auditor: mkkp.hu
 - domain: duna-tv.me
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/05/Dancing-Lizard-Man.gif
+  image: lizard
   alert: HOAX ALERT!
   auditor: mkkp.hu
 - domain: duol.hu
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/06/orbanWS.gif
+  image: lazar
   alert: KORMÁNYPROPAGANDA ALERT!
   auditor: mkkp.hu
 - domain: dzsihadfigyelo.blogstar.hu
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/06/orbanWS.gif
+  image: lazar
   alert: KORMÁNYPROPAGANDA ALERT!
   auditor: mkkp.hu
 - domain: dzsihadfigyelo.blogstar.hu
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/06/orbanWS.gif
+  image: lazar
   alert: KORMÁNYPROPAGANDA ALERT!
   auditor: mkkp.hu
 - domain: echotv.hu
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/06/orbanWS.gif
+  image: lazar
   alert: KORMÁNYPROPAGANDA ALERT!
   auditor: mkkp.hu
 - domain: egeszsegedert.hu
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/05/Dancing-Lizard-Man.gif
+  image: lizard
   alert: HOAX ALERT!
   auditor: mkkp.hu
 - domain: egeszsegespont.hu
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/05/Dancing-Lizard-Man.gif
+  image: lizard
   alert: HOAX ALERT!
   auditor: mkkp.hu
 - domain: egyazegyben.com
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/05/Dancing-Lizard-Man.gif
+  image: lizard
   alert: HOAX ALERT!
   auditor: mkkp.hu
 - domain: egybeminden.com
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/05/Dancing-Lizard-Man.gif
+  image: lizard
   alert: HOAX ALERT!
   auditor: mkkp.hu
 - domain: egybeminden.hu
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/05/Dancing-Lizard-Man.gif
+  image: lizard
   alert: HOAX ALERT!
   auditor: mkkp.hu
 - domain: egyediszavak.com
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/05/Dancing-Lizard-Man.gif
+  image: lizard
   alert: HOAX ALERT!
   auditor: mkkp.hu
 - domain: egyenesben.com
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/05/Dancing-Lizard-Man.gif
+  image: lizard
   alert: HOAX ALERT!
   auditor: mkkp.hu
 - domain: egyenesen.com
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/05/Dancing-Lizard-Man.gif
+  image: lizard
   alert: HOAX ALERT!
   auditor: mkkp.hu
 - domain: egyszerencse.club
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/05/Dancing-Lizard-Man.gif
+  image: lizard
   alert: HOAX ALERT!
   auditor: mkkp.hu
 - domain: egyveleg.com
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/05/Dancing-Lizard-Man.gif
+  image: lizard
   alert: HOAX ALERT!
   auditor: mkkp.hu
 - domain: egyveleg.eu
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/05/Dancing-Lizard-Man.gif
+  image: lizard
   alert: HOAX ALERT!
   auditor: mkkp.hu
 - domain: eketefehermagia.hu
-  image: https://i.imgur.com/l9JB28v.gif
+  image: lazar
   alert: KORMÁNYPROPAGANDA ALERT!
   auditor: mkkp.hu
 - domain: elfogadom.eu
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/05/Dancing-Lizard-Man.gif
+  image: lizard
   alert: HOAX ALERT!
   auditor: mkkp.hu
 - domain: eljunkszabadon.co.vu
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/05/Dancing-Lizard-Man.gif
+  image: lizard
   alert: HOAX ALERT!
   auditor: mkkp.hu
 - domain: elkepeszto.net
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/05/Dancing-Lizard-Man.gif
+  image: lizard
   alert: HOAX ALERT!
   auditor: mkkp.hu
 - domain: elkepeszto.net
-  image: https://mkkp.lazos.me/putinalert/dance.gif
+  image: putin
   alert: PUTIN ALERT!
   auditor: mkkp.hu
-- domain: ellenforradalmar.blogspot.com/
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/05/Dancing-Lizard-Man.gif
+- domain: ellenforradalmar.blogspot.com
+  image: lizard
   alert: HOAX ALERT!
   auditor: mkkp.hu
 - domain: elmenyorszag.com
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/05/Dancing-Lizard-Man.gif
+  image: lizard
   alert: HOAX ALERT!
   auditor: mkkp.hu
 - domain: elsokezbol.hu
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/05/Dancing-Lizard-Man.gif
+  image: lizard
   alert: HOAX ALERT!
   auditor: mkkp.hu
-- domain: emberfiaalapitvany.hu/
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/05/Dancing-Lizard-Man.gif
+- domain: emberfiaalapitvany.hu
+  image: lizard
   alert: HOAX ALERT!
   auditor: mkkp.hu
 - domain: emf-kryon.blogspot.com
-  image: https://ketfarkukutya.mkkp.party/wp-content/uploads/2020/02/rigobcsai.gif?fbclid=IwAR3ZidHHLeyLThqjKA36gzH4PRepso_MxtPmZ4e-TwjcvaCxOE-eP1P5SVk
+  image: rigobacsi
   alert: HOAX ALERT!
   auditor: mkkp.hu
 - domain: en.kueez.com
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/05/Dancing-Lizard-Man.gif
+  image: lizard
   alert: ADATHALÁSZ ALERT!
   auditor: mkkp.hu
-- domain: en.necropedia.org/
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/05/Dancing-Lizard-Man.gif
+- domain: en.necropedia.org
+  image: lizard
   alert: HOAX ALERT!
   auditor: mkkp.hu
-- domain: en2.nametests.com/
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/05/Dancing-Lizard-Man.gif
+- domain: en2.nametests.com
+  image: lizard
   alert: ADATHALÁSZ ALERT!
   auditor: mkkp.hu
 - domain: erdekescikkek.com
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/05/Dancing-Lizard-Man.gif
+  image: lizard
   alert: HOAX ALERT!
   auditor: mkkp.hu
 - domain: erdekeshirek.club
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/05/Dancing-Lizard-Man.gif
+  image: lizard
   alert: HOAX ALERT!
   auditor: mkkp.hu
 - domain: erdekeshirek.info
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/05/Dancing-Lizard-Man.gif
+  image: lizard
   alert: HOAX ALERT!
   auditor: mkkp.hu
 - domain: erdekesportal.info
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/05/Dancing-Lizard-Man.gif
+  image: lizard
   alert: HOAX ALERT!
   auditor: mkkp.hu
 - domain: erdekessegek.net
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/05/Dancing-Lizard-Man.gif
+  image: lizard
   alert: HOAX ALERT!
   auditor: mkkp.hu
 - domain: erdekesvilag.eu
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/05/Dancing-Lizard-Man.gif
+  image: lizard
   alert: HOAX ALERT!
   auditor: mkkp.hu
 - domain: erdemesszo.club
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/05/Dancing-Lizard-Man.gif
+  image: lizard
   alert: HOAX ALERT!
   auditor: mkkp.hu
-- domain: eszak.hu/
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/06/orbanWS.gif
+- domain: eszak.hu
+  image: lazar
   alert: KORMÁNYPROPAGANDA ALERT!
   auditor: mkkp.hu
 - domain: exkluziv-videok.com
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/05/Dancing-Lizard-Man.gif
+  image: lizard
   alert: HOAX ALERT!
   auditor: mkkp.hu
 - domain: extremblog.com
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/05/Dancing-Lizard-Man.gif
+  image: lizard
   alert: HOAX ALERT!
   auditor: mkkp.hu
 - domain: eyes.blog.hu
-  image: https://ketfarkukutya.mkkp.party/wp-content/uploads/2020/02/rigobcsai.gif?fbclid=IwAR3ZidHHLeyLThqjKA36gzH4PRepso_MxtPmZ4e-TwjcvaCxOE-eP1P5SVk
+  image: rigobacsi
   alert: VESZÉLYES! ELLENŐRIZD MÁSHOL IS!
   auditor: mkkp.hu
 - domain: ez-zsir.net
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/05/Dancing-Lizard-Man.gif
+  image: lizard
   alert: HOAX ALERT!
   auditor: mkkp.hu
 - domain: ezatutioldal.blogspot.hu
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/05/Dancing-Lizard-Man.gif
+  image: lizard
   alert: HOAX ALERT!
   auditor: mkkp.hu
 - domain: ezerdekes.eu
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/05/Dancing-Lizard-Man.gif
+  image: lizard
   alert: HOAX ALERT!
   auditor: mkkp.hu
 - domain: ezjolesz.com
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/05/Dancing-Lizard-Man.gif
+  image: lizard
   alert: HOAX ALERT!
   auditor: mkkp.hu
 - domain: eznempiti.eu
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/05/Dancing-Lizard-Man.gif
+  image: lizard
   alert: HOAX ALERT!
   auditor: mkkp.hu
 - domain: eznemsemmilehet.blogspot.hu
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/05/Dancing-Lizard-Man.gif
+  image: lizard
   alert: HOAX ALERT!
   auditor: mkkp.hu
 - domain: ezt-figyeld-blog.com
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/05/Dancing-Lizard-Man.gif
+  image: lizard
   alert: HOAX ALERT!
   auditor: mkkp.hu
 - domain: ezt-figyeld.com
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/05/Dancing-Lizard-Man.gif
+  image: lizard
   alert: HOAX ALERT!
   auditor: mkkp.hu
 - domain: eztnezd.net
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/05/Dancing-Lizard-Man.gif
+  image: lizard
   alert: HOAX ALERT!
   auditor: mkkp.hu
 - domain: eztnezdmeg-blog.com
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/05/Dancing-Lizard-Man.gif
+  image: lizard
   alert: HOAX ALERT!
   auditor: mkkp.hu
 - domain: eztnezdmeg.com
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/05/Dancing-Lizard-Man.gif
+  image: lizard
   alert: HOAX ALERT!
   auditor: mkkp.hu
 - domain: eztnezdmeg.info
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/05/Dancing-Lizard-Man.gif
+  image: lizard
   alert: HOAX ALERT!
   auditor: mkkp.hu
-- domain: eztnezdmeg.net/
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/05/Dancing-Lizard-Man.gif
+- domain: eztnezdmeg.net
+  image: lizard
   alert: HOAX ALERT!
   auditor: mkkp.hu
 - domain: face-nemzedek.com
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/05/Dancing-Lizard-Man.gif
+  image: lizard
   alert: HOAX ALERT!
   auditor: mkkp.hu
 - domain: fejezet.com
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/05/Dancing-Lizard-Man.gif
+  image: lizard
   alert: HOAX ALERT!
   auditor: mkkp.hu
 - domain: felhivasok.com
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/05/Dancing-Lizard-Man.gif
+  image: lizard
   alert: HOAX ALERT!
   auditor: mkkp.hu
 - domain: felvidek.ma
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/05/Dancing-Lizard-Man.gif
+  image: lizard
   alert: HOAX ALERT!
   auditor: mkkp.hu
 - domain: fem3cafe.me
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/05/Dancing-Lizard-Man.gif
+  image: lizard
   alert: HOAX ALERT!
   auditor: mkkp.hu
 - domain: fem3cafe.me
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/05/Dancing-Lizard-Man.gif
+  image: lizard
   alert: HOAX ALERT!
   auditor: mkkp.hu
 - domain: femcafe-hir.com
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/05/Dancing-Lizard-Man.gif
+  image: lizard
   alert: HOAX ALERT!
   auditor: mkkp.hu
 - domain: fenyorveny.hu
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/05/Dancing-Lizard-Man.gif
+  image: lizard
   alert: HOAX ALERT!
   auditor: mkkp.hu
-- domain: fenysziv.webnode.hu/
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/05/Dancing-Lizard-Man.gif
+- domain: fenysziv.webnode.hu
+  image: lizard
   alert: HOAX ALERT!
   auditor: mkkp.hu
 - domain: feol.hu
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/06/orbanWS.gif
+  image: lazar
   alert: KORMÁNYPROPAGANDA ALERT!
   auditor: mkkp.hu
-- domain: fidelitas.hu/
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/06/orbanWS.gif
+- domain: fidelitas.hu
+  image: lazar
   alert: KORMÁNYPROPAGANDA ALERT!
   auditor: mkkp.hu
 - domain: fidesz.hu
-  image: https://i.imgur.com/l9JB28v.gif
+  image: lazar
   alert: KORMÁNYPROPAGANDA ALERT!
   auditor: mkkp.hu
 - domain: figyeld.eu
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/05/Dancing-Lizard-Man.gif
+  image: lizard
   alert: HOAX ALERT!
   auditor: mkkp.hu
 - domain: figyelo-net.com
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/05/Dancing-Lizard-Man.gif
+  image: lizard
   alert: HOAX ALERT!
   auditor: mkkp.hu
-- domain: figyelo.hu/szoveg/
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/05/Dancing-Lizard-Man.gif
+- domain: figyelo.hu
+  image: lizard
   alert: HOAX ALERT!
   auditor: mkkp.hu
 - domain: filmhir.net
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/05/Dancing-Lizard-Man.gif
+  image: lizard
   alert: HOAX ALERT!
   auditor: mkkp.hu
 - domain: first-video.net
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/05/Dancing-Lizard-Man.gif
+  image: lizard
   alert: HOAX ALERT!
   auditor: mkkp.hu
 - domain: flagmagazin.hu
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/05/Dancing-Lizard-Man.gif
+  image: lizard
   alert: HOAX ALERT!
   auditor: mkkp.hu
 - domain: fm3cafe.hu
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/05/Dancing-Lizard-Man.gif
+  image: lizard
   alert: HOAX ALERT!
   auditor: mkkp.hu
 - domain: fmradio88.blogspot.hu
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/05/Dancing-Lizard-Man.gif
+  image: lizard
   alert: HOAX ALERT!
   auditor: mkkp.hu
 - domain: fogjunkossze.com
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/05/Dancing-Lizard-Man.gif
+  image: lizard
   alert: HOAX ALERT!
   auditor: mkkp.hu
-- domain: fognews.ru/
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/05/Dancing-Lizard-Man.gif
+- domain: fognews.ru
+  image: lizard
   alert: HOAX ALERT!
   auditor: mkkp.hu
 - domain: fontoshirek.info
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/05/Dancing-Lizard-Man.gif
+  image: lizard
   alert: HOAX ALERT!
   auditor: mkkp.hu
 - domain: fontosszavak.info
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/05/Dancing-Lizard-Man.gif
+  image: lizard
   alert: HOAX ALERT!
   auditor: mkkp.hu
 - domain: fontostudni.club
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/05/Dancing-Lizard-Man.gif
+  image: lizard
   alert: HOAX ALERT!
   auditor: mkkp.hu
 - domain: franko.info
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/05/Dancing-Lizard-Man.gif
+  image: lizard
   alert: HOAX ALERT!
   auditor: mkkp.hu
 - domain: freakingnews.com
-  image: https://i.imgur.com/l9JB28v.gif
+  image: lazar
   alert: KORMÁNYPROPAGANDA ALERT!
   auditor: mkkp.hu
 - domain: frenetikus.com
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/05/Dancing-Lizard-Man.gif
+  image: lizard
   alert: HOAX ALERT!
   auditor: mkkp.hu
 - domain: frisshirek-nonstop.com
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/05/Dancing-Lizard-Man.gif
+  image: lizard
   alert: HOAX ALERT!
   auditor: mkkp.hu
 - domain: frisshirek48.com
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/05/Dancing-Lizard-Man.gif
+  image: lizard
   alert: HOAX ALERT!
   auditor: mkkp.hu
 - domain: frissvilag.com
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/05/Dancing-Lizard-Man.gif
+  image: lizard
   alert: HOAX ALERT!
   auditor: mkkp.hu
 - domain: fuggetlenhirek.info
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/05/Dancing-Lizard-Man.gif
+  image: lizard
   alert: HOAX ALERT!
   auditor: mkkp.hu
 - domain: funtasztikus.eu
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/05/Dancing-Lizard-Man.gif
+  image: lizard
   alert: HOAX ALERT!
   auditor: mkkp.hu
 - domain: globire.info
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/05/Dancing-Lizard-Man.gif
+  image: lizard
   alert: HOAX ALERT!
   auditor: mkkp.hu
 - domain: golenya-agnes.hu
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/05/Dancing-Lizard-Man.gif
+  image: lizard
   alert: HOAX ALERT!
   auditor: mkkp.hu
 - domain: gonosz-majom.com
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/05/Dancing-Lizard-Man.gif
+  image: lizard
   alert: HOAX ALERT!
   auditor: mkkp.hu
 - domain: gyorshirek.com
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/05/Dancing-Lizard-Man.gif
+  image: lizard
   alert: HOAX ALERT!
   auditor: mkkp.hu
 - domain: haon.hu
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/06/orbanWS.gif
+  image: lazar
   alert: KORMÁNYPROPAGANDA ALERT!
   auditor: mkkp.hu
 - domain: harcunk.info
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/05/Dancing-Lizard-Man.gif
+  image: lizard
   alert: HOAX ALERT!
   auditor: mkkp.hu
 - domain: hasznos.info
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/05/Dancing-Lizard-Man.gif
+  image: lizard
   alert: HOAX ALERT!
   auditor: mkkp.hu
 - domain: hatter-story.info
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/05/Dancing-Lizard-Man.gif
+  image: lizard
   alert: HOAX ALERT!
   auditor: mkkp.hu
 - domain: hazitippek.com
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/05/Dancing-Lizard-Man.gif
+  image: lizard
   alert: HOAX ALERT!
   auditor: mkkp.hu
 - domain: helloladies.hu
-  image: https://ketfarkukutya.mkkp.party/wp-content/uploads/2020/02/rigobcsai.gif?fbclid=IwAR3ZidHHLeyLThqjKA36gzH4PRepso_MxtPmZ4e-TwjcvaCxOE-eP1P5SVk
+  image: rigobacsi
   alert: MEGTÉVESZTŐ! ELLENŐRIZD MÁSHOL IS!
   auditor: mkkp.hu
 - domain: heol.hu
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/06/orbanWS.gif
+  image: lazar
   alert: KORMÁNYPROPAGANDA ALERT!
   auditor: mkkp.hu
 - domain: heti-naplo.com
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/05/Dancing-Lizard-Man.gif
+  image: lizard
   alert: HOAX ALERT!
   auditor: mkkp.hu
 - domain: hetperc.com
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/05/Dancing-Lizard-Man.gif
+  image: lizard
   alert: HOAX ALERT!
   auditor: mkkp.hu
 - domain: hidfo.net
-  image: https://mkkp.lazos.me/putinalert/dance.gif
+  image: putin
   alert: PUTIN ALERT!
   auditor: mkkp.hu
 - domain: hidfo.ru
-  image: https://mkkp.lazos.me/putinalert/dance.gif
+  image: putin
   alert: PUTIN ALERT!
   auditor: mkkp.hu
 - domain: hihetetlendolgok.com
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/05/Dancing-Lizard-Man.gif
+  image: lizard
   alert: HOAX ALERT!
   auditor: mkkp.hu
 - domain: hihetetlenvideo.eu
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/05/Dancing-Lizard-Man.gif
+  image: lizard
   alert: HOAX ALERT!
   auditor: mkkp.hu
 - domain: hir-24.eu
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/05/Dancing-Lizard-Man.gif
+  image: lizard
   alert: HOAX ALERT!
   auditor: mkkp.hu
 - domain: hir-24.info
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/05/Dancing-Lizard-Man.gif
+  image: lizard
   alert: HOAX ALERT!
   auditor: mkkp.hu
 - domain: hir-online.com
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/05/Dancing-Lizard-Man.gif
+  image: lizard
   alert: HOAX ALERT!
   auditor: mkkp.hu
 - domain: hir-online.com
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/05/Dancing-Lizard-Man.gif
+  image: lizard
   alert: HOAX ALERT!
   auditor: mkkp.hu
 - domain: hir-start.com
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/05/Dancing-Lizard-Man.gif
+  image: lizard
   alert: HOAX ALERT!
   auditor: mkkp.hu
 - domain: hir-start.net
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/05/Dancing-Lizard-Man.gif
+  image: lizard
   alert: HOAX ALERT!
   auditor: mkkp.hu
 - domain: hir-tv.blogspot.hu
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/05/Dancing-Lizard-Man.gif
+  image: lizard
   alert: HOAX ALERT!
   auditor: mkkp.hu
 - domain: hir-tv.com
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/05/Dancing-Lizard-Man.gif
+  image: lizard
   alert: HOAX ALERT!
   auditor: mkkp.hu
 - domain: hir-tv911.blogspot.hu
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/05/Dancing-Lizard-Man.gif
+  image: lizard
   alert: HOAX ALERT!
   auditor: mkkp.hu
 - domain: hir.club
-  image: https://mkkp.lazos.me/putinalert/dance.gif
+  image: putin
   alert: PUTIN ALERT!
   auditor: mkkp.hu
 - domain: hir.ma
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/05/Dancing-Lizard-Man.gif
+  image: lizard
   alert: HOAX ALERT!
   auditor: mkkp.hu
 - domain: hir22.blogspot.hu
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/05/Dancing-Lizard-Man.gif
+  image: lizard
   alert: HOAX ALERT!
   auditor: mkkp.hu
 - domain: hir27.in
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/05/Dancing-Lizard-Man.gif
+  image: lizard
   alert: HOAX ALERT!
   auditor: mkkp.hu
 - domain: hir44.blogspot.com
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/05/Dancing-Lizard-Man.gif
+  image: lizard
   alert: HOAX ALERT!
   auditor: mkkp.hu
 - domain: hir44.blogspot.hu
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/05/Dancing-Lizard-Man.gif
+  image: lizard
   alert: HOAX ALERT!
   auditor: mkkp.hu
 - domain: hirado-online.eu
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/05/Dancing-Lizard-Man.gif
+  image: lizard
   alert: HOAX ALERT!
   auditor: mkkp.hu
 - domain: hirado-online.net
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/05/Dancing-Lizard-Man.gif
+  image: lizard
   alert: HOAX ALERT!
   auditor: mkkp.hu
 - domain: hirado.hu
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/06/orbanWS.gif
+  image: lazar
   alert: KORMÁNYPROPAGANDA ALERT!
   auditor: mkkp.hu
-- domain: hirado.me/
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/06/orbanWS.gif
+- domain: hirado.me
+  image: lazar
   alert: KORMÁNYPROPAGANDA ALERT!
   auditor: mkkp.hu
 - domain: hirado.org
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/05/Dancing-Lizard-Man.gif
+  image: lizard
   alert: HOAX ALERT!
   auditor: mkkp.hu
 - domain: hirado.top
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/05/Dancing-Lizard-Man.gif
+  image: lizard
   alert: HOAX ALERT!
   auditor: mkkp.hu
 - domain: hirarena.com
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/05/Dancing-Lizard-Man.gif
+  image: lizard
   alert: HOAX ALERT!
   auditor: mkkp.hu
 - domain: hirarena.eu
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/05/Dancing-Lizard-Man.gif
+  image: lizard
   alert: HOAX ALERT!
   auditor: mkkp.hu
 - domain: hirbazis.com
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/05/Dancing-Lizard-Man.gif
+  image: lizard
   alert: HOAX ALERT!
   auditor: mkkp.hu
 - domain: hircafefm.blogspot.hu
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/05/Dancing-Lizard-Man.gif
+  image: lizard
   alert: HOAX ALERT!
   auditor: mkkp.hu
 - domain: hircenter.net
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/05/Dancing-Lizard-Man.gif
+  image: lizard
   alert: HOAX ALERT!
   auditor: mkkp.hu
 - domain: hircentrum.top
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/05/Dancing-Lizard-Man.gif
+  image: lizard
   alert: HOAX ALERT!
   auditor: mkkp.hu
 - domain: hirek-online.com
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/05/Dancing-Lizard-Man.gif
+  image: lizard
   alert: HOAX ALERT!
   auditor: mkkp.hu
 - domain: hirek.in
-  image: https://mkkp.lazos.me/putinalert/dance.gif
+  image: putin
   alert: PUTIN ALERT!
   auditor: mkkp.hu
 - domain: hirek.sk
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/05/Dancing-Lizard-Man.gif
+  image: lizard
   alert: KORMÁNYPROPAGANDA ALERT!
   auditor: mkkp.hu
 - domain: hirek.top
-  image: https://mkkp.lazos.me/putinalert/dance.gif
+  image: putin
   alert: PUTIN ALERT!
   auditor: mkkp.hu
 - domain: hirekonline.com
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/05/Dancing-Lizard-Man.gif
+  image: lizard
   alert: HOAX ALERT!
   auditor: mkkp.hu
 - domain: hirekonline.net
-  image: https://mkkp.lazos.me/putinalert/dance.gif
+  image: putin
   alert: PUTIN ALERT!
   auditor: mkkp.hu
 - domain: hirexpressz.top
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/05/Dancing-Lizard-Man.gif
+  image: lizard
   alert: HOAX ALERT!
   auditor: mkkp.hu
 - domain: hirextra.info
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/06/orbanWS.gif
+  image: lazar
   alert: KORMÁNYPROPAGANDA ALERT!
   auditor: mkkp.hu
-- domain: hirfolyam24.blogspot.com/
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/05/Dancing-Lizard-Man.gif
+- domain: hirfolyam24.blogspot.com
+  image: lizard
   alert: HOAX ALERT!
   auditor: mkkp.hu
 - domain: hirfolyam24.blogspot.hu
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/05/Dancing-Lizard-Man.gif
+  image: lizard
   alert: HOAX ALERT!
   auditor: mkkp.hu
-- domain: hirhatter.eu/
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/05/Dancing-Lizard-Man.gif
+- domain: hirhatter.eu
+  image: lizard
   alert: HOAX ALERT!
   auditor: mkkp.hu
 - domain: hirjarat.com
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/05/Dancing-Lizard-Man.gif
+  image: lizard
   alert: HOAX ALERT!
   auditor: mkkp.hu
 - domain: hirkalap.net
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/05/Dancing-Lizard-Man.gif
+  image: lizard
   alert: HOAX ALERT!
   auditor: mkkp.hu
 - domain: hirkert.info
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/05/Dancing-Lizard-Man.gif
+  image: lizard
   alert: HOAX ALERT!
   auditor: mkkp.hu
 - domain: hirkert.info
-  image: https://mkkp.lazos.me/putinalert/dance.gif
+  image: putin
   alert: PUTIN ALERT!
   auditor: mkkp.hu
 - domain: hirklikk.info
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/05/Dancing-Lizard-Man.gif
+  image: lizard
   alert: HOAX ALERT!
   auditor: mkkp.hu
 - domain: hirkozlo.com
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/05/Dancing-Lizard-Man.gif
+  image: lizard
   alert: HOAX ALERT!
   auditor: mkkp.hu
 - domain: hirkozpont.com
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/05/Dancing-Lizard-Man.gif
+  image: lizard
   alert: HOAX ALERT!
   auditor: mkkp.hu
 - domain: hirkozpont.eu
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/05/Dancing-Lizard-Man.gif
+  image: lizard
   alert: HOAX ALERT!
   auditor: mkkp.hu
 - domain: hirlexikon.eu
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/05/Dancing-Lizard-Man.gif
+  image: lizard
   alert: HOAX ALERT!
   auditor: mkkp.hu
 - domain: hirlistazo.com
-  image: https://mkkp.lazos.me/putinalert/dance.gif
+  image: putin
   alert: PUTIN ALERT!
   auditor: mkkp.hu
 - domain: hirma.info
-  image: https://mkkp.lazos.me/putinalert/dance.gif
+  image: putin
   alert: PUTIN ALERT!
   auditor: mkkp.hu
 - domain: hirmadar.com
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/05/Dancing-Lizard-Man.gif
+  image: lizard
   alert: HOAX ALERT!
   auditor: mkkp.hu
 - domain: hirmagazin.eu
-  image: https://mkkp.lazos.me/putinalert/dance.gif
+  image: putin
   alert: PUTIN ALERT!
   auditor: mkkp.hu
 - domain: hirnap.info
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/05/Dancing-Lizard-Man.gif
+  image: lizard
   alert: HOAX ALERT!
   auditor: mkkp.hu
 - domain: hirnaplo.com
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/05/Dancing-Lizard-Man.gif
+  image: lizard
   alert: HOAX ALERT!
   auditor: mkkp.hu
 - domain: hironline.club
-  image: https://mkkp.lazos.me/putinalert/dance.gif
+  image: putin
   alert: PUTIN ALERT!
   auditor: mkkp.hu
 - domain: hironline.info
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/05/Dancing-Lizard-Man.gif
+  image: lizard
   alert: HOAX ALERT!
   auditor: mkkp.hu
 - domain: hironline24.net
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/05/Dancing-Lizard-Man.gif
+  image: lizard
   alert: HOAX ALERT!
   auditor: mkkp.hu
 - domain: hirorigo.net
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/05/Dancing-Lizard-Man.gif
+  image: lizard
   alert: HOAX ALERT!
   auditor: mkkp.hu
 - domain: hirozon.info
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/05/Dancing-Lizard-Man.gif
+  image: lizard
   alert: HOAX ALERT!
   auditor: mkkp.hu
 - domain: hirportal.info
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/05/Dancing-Lizard-Man.gif
+  image: lizard
   alert: HOAX ALERT!
   auditor: mkkp.hu
-- domain: hirstart.hu/
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/05/Dancing-Lizard-Man.gif
+- domain: hirstart.hu
+  image: lizard
   alert: HOAX ALERT!
   auditor: mkkp.hu
 - domain: hirszabadsag.blogspot.com
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/05/Dancing-Lizard-Man.gif
+  image: lizard
   alert: HOAX ALERT!
   auditor: mkkp.hu
-- domain: hirtelen.wordpress.com/
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/05/Dancing-Lizard-Man.gif
+- domain: hirtelen.wordpress.com
+  image: lizard
   alert: HOAX ALERT!
   auditor: mkkp.hu
 - domain: hirtop.in
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/05/Dancing-Lizard-Man.gif
+  image: lizard
   alert: HOAX ALERT!
   auditor: mkkp.hu
 - domain: hirtrafik.top
-  image: https://mkkp.lazos.me/putinalert/dance.gif
+  image: putin
   alert: PUTIN ALERT!
   auditor: mkkp.hu
 - domain: hirturi.blogspot.com
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/05/Dancing-Lizard-Man.gif
+  image: lizard
   alert: HOAX ALERT!
   auditor: mkkp.hu
 - domain: hirturi.blogspot.hu
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/05/Dancing-Lizard-Man.gif
+  image: lizard
   alert: HOAX ALERT!
   auditor: mkkp.hu
 - domain: hirtv.hu
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/06/orbanWS.gif
+  image: lazar
   alert: KORMÁNYPROPAGANDA ALERT!
   auditor: mkkp.hu
 - domain: hirujsag.hu
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/05/Dancing-Lizard-Man.gif
+  image: lizard
   alert: HOAX ALERT!
   auditor: mkkp.hu
 - domain: hirvarazs.info
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/05/Dancing-Lizard-Man.gif
+  image: lizard
   alert: HOAX ALERT!
   auditor: mkkp.hu
 - domain: hirvilag.co
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/05/Dancing-Lizard-Man.gif
+  image: lizard
   alert: HOAX ALERT!
   auditor: mkkp.hu
 - domain: hirvilag.co
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/05/Dancing-Lizard-Man.gif
+  image: lizard
   alert: HOAX ALERT!
   auditor: mkkp.hu
 - domain: hirvilag.eu
-  image: https://mkkp.lazos.me/putinalert/dance.gif
+  image: putin
   alert: PUTIN ALERT!
   auditor: mkkp.hu
 - domain: hirzona24.com
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/05/Dancing-Lizard-Man.gif
+  image: lizard
   alert: HOAX ALERT!
   auditor: mkkp.hu
 - domain: hitel.news7.hu
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/05/Dancing-Lizard-Man.gif
+  image: lizard
   alert: HOAX ALERT!
   auditor: mkkp.hu
 - domain: hiteleshirek.net
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/05/Dancing-Lizard-Man.gif
+  image: lizard
   alert: HOAX ALERT!
   auditor: mkkp.hu
 - domain: hitelforum.hu
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/05/Dancing-Lizard-Man.gif
+  image: lizard
   alert: HOAX ALERT!
   auditor: mkkp.hu
 - domain: hitelforum.hu
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/05/Dancing-Lizard-Man.gif
+  image: lizard
   alert: HOAX ALERT!
   auditor: mkkp.hu
 - domain: hogyvolt.com
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/05/Dancing-Lizard-Man.gif
+  image: lizard
   alert: HOAX ALERT!
   auditor: mkkp.hu
 - domain: homeopatia.info.hu
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/05/Dancing-Lizard-Man.gif
+  image: lizard
   alert: HOAX ALERT!
   auditor: mkkp.hu
 - domain: hotpixel.co.vu
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/05/Dancing-Lizard-Man.gif
+  image: lizard
   alert: HOAX ALERT!
   auditor: mkkp.hu
 - domain: hu.kueez.com
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/05/Dancing-Lizard-Man.gif
+  image: lizard
   alert: ADATHALÁSZ ALERT!
   auditor: mkkp.hu
 - domain: hu.nametests.com
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/05/Dancing-Lizard-Man.gif
+  image: lizard
   alert: ADATHALÁSZ ALERT!
   auditor: mkkp.hu
 - domain: hu.news-front.info
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/05/Dancing-Lizard-Man.gif
+  image: lizard
   alert: ADATHALÁSZ ALERT!
   auditor: mkkp.hu
 - domain: humormagazin.com
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/05/Dancing-Lizard-Man.gif
+  image: lizard
   alert: HOAX ALERT!
   auditor: mkkp.hu
 - domain: hungarian.ruvr.ru
-  image: https://mkkp.lazos.me/putinalert/dance.gif
+  image: putin
   alert: PUTIN ALERT!
   auditor: mkkp.hu
 - domain: hungaryexpres.com
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/05/Dancing-Lizard-Man.gif
+  image: lizard
   alert: HOAX ALERT!
   auditor: mkkp.hu
 - domain: hungaryexpres.com
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/05/Dancing-Lizard-Man.gif
+  image: lizard
   alert: HOAX ALERT!
   auditor: mkkp.hu
 - domain: hungaryfirst.hu
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/05/Dancing-Lizard-Man.gif
+  image: lizard
   alert: HOAX ALERT!
   auditor: mkkp.hu
 - domain: hungaryfirst.hu
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/06/orbanWS.gif
+  image: lazar
   alert: KORMÁNYPROPAGANDA ALERT!
   auditor: mkkp.hu
 - domain: hunhir.hu
-  image: https://mkkp.lazos.me/putinalert/dance.gif
+  image: putin
   alert: PUTIN ALERT!
   auditor: mkkp.hu
 - domain: hunhir.info
-  image: https://mkkp.lazos.me/putinalert/dance.gif
+  image: putin
   alert: PUTIN ALERT!
   auditor: mkkp.hu
 - domain: hunhonlap.hu
-  image: https://mkkp.lazos.me/putinalert/dance.gif
+  image: putin
   alert: PUTIN ALERT!
   auditor: mkkp.hu
 - domain: hunsor.se
-  image: https://mkkp.lazos.me/putinalert/dance.gif
+  image: putin
   alert: PUTIN ALERT!
   auditor: mkkp.hu
 - domain: huntv.info
-  image: https://mkkp.lazos.me/putinalert/dance.gif
+  image: putin
   alert: PUTIN ALERT!
   auditor: mkkp.hu
 - domain: husospizza.com
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/05/Dancing-Lizard-Man.gif
+  image: lizard
   alert: HOAX ALERT!
   auditor: mkkp.hu
 - domain: idovonal.com
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/05/Dancing-Lizard-Man.gif
+  image: lizard
   alert: HOAX ALERT!
   auditor: mkkp.hu
 - domain: ilyennincs.com
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/05/Dancing-Lizard-Man.gif
+  image: lizard
   alert: HOAX ALERT!
   auditor: mkkp.hu
 - domain: impulzus.net
-  image: https://mkkp.lazos.me/putinalert/dance.gif
+  image: putin
   alert: PUTIN ALERT!
   auditor: mkkp.hu
 - domain: index-blog.net
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/05/Dancing-Lizard-Man.gif
+  image: lizard
   alert: HOAX ALERT!
   auditor: mkkp.hu
 - domain: index-hirek.me
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/05/Dancing-Lizard-Man.gif
+  image: lizard
   alert: HOAX ALERT!
   auditor: mkkp.hu
 - domain: indexhir.com
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/05/Dancing-Lizard-Man.gif
+  image: lizard
   alert: HOAX ALERT!
   auditor: mkkp.hu
 - domain: indexonline.hu
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/05/Dancing-Lizard-Man.gif
+  image: lizard
   alert: HOAX ALERT!
   auditor: mkkp.hu
 - domain: internetfigyelo.wordpress.com
-  image: https://mkkp.lazos.me/putinalert/dance.gif
+  image: putin
   alert: PUTIN ALERT!
   auditor: mkkp.hu
 - domain: jatszoterblog.com
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/05/Dancing-Lizard-Man.gif
+  image: lizard
   alert: HOAX ALERT!
   auditor: mkkp.hu
 - domain: jotemak.club
-  image: https://i.imgur.com/l9JB28v.gif
+  image: lazar
   alert: KORMÁNYPROPAGANDA ALERT!
   auditor: mkkp.hu
 - domain: jovonk.info
-  image: https://mkkp.lazos.me/putinalert/dance.gif
+  image: putin
   alert: PUTIN ALERT!
   auditor: mkkp.hu
 - domain: kaprazatos.club
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/05/Dancing-Lizard-Man.gif
+  image: lizard
   alert: HOAX ALERT!
   auditor: mkkp.hu
 - domain: kaprazatosutazasok.blogspot.hu
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/05/Dancing-Lizard-Man.gif
+  image: lizard
   alert: HOAX ALERT!
   auditor: mkkp.hu
 - domain: karcfm.hu
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/06/orbanWS.gif
+  image: lazar
   alert: KORMÁNYPROPAGANDA ALERT!
   auditor: mkkp.hu
 - domain: kelet.hu
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/06/orbanWS.gif
+  image: lazar
   alert: KORMÁNYPROPAGANDA ALERT!
   auditor: mkkp.hu
 - domain: kemma.hu
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/06/orbanWS.gif
+  image: lazar
   alert: KORMÁNYPROPAGANDA ALERT!
   auditor: mkkp.hu
 - domain: kepzavar.info
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/05/Dancing-Lizard-Man.gif
+  image: lizard
   alert: HOAX ALERT!
   auditor: mkkp.hu
 - domain: ketkes.com
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/05/Dancing-Lizard-Man.gif
+  image: lizard
   alert: HOAX ALERT!
   auditor: mkkp.hu
 - domain: kho.jobbikhosting.com
-  image: https://mkkp.lazos.me/putinalert/dance.gif
+  image: putin
   alert: PUTIN ALERT!
   auditor: mkkp.hu
 - domain: kiralyvidi.eu
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/05/Dancing-Lizard-Man.gif
+  image: lizard
   alert: HOAX ALERT!
   auditor: mkkp.hu
 - domain: kiskegyed.creatorword.com
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/05/Dancing-Lizard-Man.gif
+  image: lizard
   alert: HOAX ALERT!
   auditor: mkkp.hu
 - domain: kitartas.net
-  image: https://mkkp.lazos.me/putinalert/dance.gif
+  image: putin
   alert: PUTIN ALERT!
   auditor: mkkp.hu
 - domain: korkep.sk
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/05/Dancing-Lizard-Man.gif
+  image: lizard
   alert: KORMÁNYPROPAGANDA ALERT!
   auditor: mkkp.hu
 - domain: kozerdek.com
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/05/Dancing-Lizard-Man.gif
+  image: lizard
   alert: HOAX ALERT!
   auditor: mkkp.hu
 - domain: kozszolgalat.com
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/05/Dancing-Lizard-Man.gif
+  image: lizard
   alert: HOAX ALERT!
   auditor: mkkp.hu
 - domain: kulfoldiapro.com
-  image: https://mkkp.lazos.me/putinalert/dance.gif
+  image: putin
   alert: PUTIN ALERT!
   auditor: mkkp.hu
 - domain: kuruc.info
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/05/Dancing-Lizard-Man.gif
+  image: lizard
   alert: PUTIN ALERT!
   auditor: mkkp.hu
 - domain: lajkolj.info
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/05/Dancing-Lizard-Man.gif
+  image: lizard
   alert: VÍRUS!!
   auditor: mkkp.hu
 - domain: lapzarta.com
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/05/Dancing-Lizard-Man.gif
+  image: lizard
   alert: HOAX ALERT!
   auditor: mkkp.hu
 - domain: latnodkell.com
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/05/Dancing-Lizard-Man.gif
+  image: lizard
   alert: HOAX ALERT!
   auditor: mkkp.hu
 - domain: lattadmar.eu
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/05/Dancing-Lizard-Man.gif
+  image: lizard
   alert: HOAX ALERT!
   auditor: mkkp.hu
 - domain: leander.blogstar.hu
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/05/Dancing-Lizard-Man.gif
+  image: lizard
   alert: HOAX ALERT!
   auditor: mkkp.hu
 - domain: ledobbensz.blogspot.hu
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/05/Dancing-Lizard-Man.gif
+  image: lizard
   alert: HOAX ALERT!
   auditor: mkkp.hu
 - domain: legendavadasz.hu
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/05/Dancing-Lizard-Man.gif
+  image: lizard
   alert: HOAX ALERT!
   auditor: mkkp.hu
 - domain: legfrissebb.info
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/05/Dancing-Lizard-Man.gif
+  image: lizard
   alert: HOAX ALERT!
   auditor: mkkp.hu
 - domain: legjava.com
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/05/Dancing-Lizard-Man.gif
+  image: lizard
   alert: HOAX ALERT!
   auditor: mkkp.hu
 - domain: legjava.pro
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/05/Dancing-Lizard-Man.gif
+  image: lizard
   alert: HOAX ALERT!
   auditor: mkkp.hu
 - domain: legjava.pro
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/05/Dancing-Lizard-Man.gif
+  image: lizard
   alert: HOAX ALERT!
   auditor: mkkp.hu
 - domain: lelkizde.com
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/05/Dancing-Lizard-Man.gif
+  image: lizard
   alert: HOAX ALERT!
   auditor: mkkp.hu
 - domain: levendulamesei.blogspot.hu
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/05/Dancing-Lizard-Man.gif
+  image: lizard
   alert: HOAX ALERT!
   auditor: mkkp.hu
 - domain: libsifigyelo.hu
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/06/orbanWS.gif
+  image: lazar
   alert: KORMÁNYPROPAGANDA ALERT!
   auditor: mkkp.hu
 - domain: lokal.hu
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/05/Dancing-Lizard-Man.gif
+  image: lizard
   alert: KORMÁNYPROPAGANDA ALERT!
   auditor: mkkp.hu
 - domain: lustapercek.com
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/05/Dancing-Lizard-Man.gif
+  image: lizard
   alert: HOAX ALERT!
   auditor: mkkp.hu
 - domain: m1.hu
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/06/orbanWS.gif
+  image: lazar
   alert: KORMÁNYPROPAGANDA ALERT!
   auditor: mkkp.hu
 - domain: ma-reggel.me
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/05/Dancing-Lizard-Man.gif
+  image: lizard
   alert: HOAX ALERT!
   auditor: mkkp.hu
 - domain: ma7.sk
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/05/Dancing-Lizard-Man.gif
+  image: lizard
   alert: KORMÁNYPROPAGANDA ALERT!
   auditor: mkkp.hu
 - domain: macskajaj.net
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/05/Dancing-Lizard-Man.gif
+  image: lizard
   alert: HOAX ALERT!
   auditor: mkkp.hu
 - domain: magmento.blogspot.com
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/05/Dancing-Lizard-Man.gif
+  image: lizard
   alert: HOAX ALERT!
   auditor: mkkp.hu
 - domain: magyar-media.com
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/05/Dancing-Lizard-Man.gif
+  image: lizard
   alert: HOAX ALERT!
   auditor: mkkp.hu
 - domain: magyarhir.com
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/05/Dancing-Lizard-Man.gif
+  image: lizard
   alert: HOAX ALERT!
   auditor: mkkp.hu
 - domain: magyarhir7.blogspot.hu
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/05/Dancing-Lizard-Man.gif
+  image: lizard
   alert: HOAX ALERT!
   auditor: mkkp.hu
 - domain: magyarhirlap.hu
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/06/orbanWS.gif
+  image: lazar
   alert: KORMÁNYPROPAGANDA ALERT!
   auditor: mkkp.hu
 - domain: magyaridok.hu
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/06/orbanWS.gif
+  image: lazar
   alert: KORMÁNYPROPAGANDA ALERT!
   auditor: mkkp.hu
 - domain: magyarifjak.org
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/06/orbanWS.gif
+  image: lazar
   alert: KORMÁNYPROPAGANDA ALERT!
   auditor: mkkp.hu
 - domain: magyarkozosseg.net
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/05/Dancing-Lizard-Man.gif
+  image: lizard
   alert: HOAX ALERT!
   auditor: mkkp.hu
 - domain: magyarmegmaradasert.hu
-  image: https://mkkp.lazos.me/putinalert/dance.gif
+  image: putin
   alert: PUTIN ALERT!
   auditor: mkkp.hu
-- domain: magyarmenedek.com/
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/05/Dancing-Lizard-Man.gif
+- domain: magyarmenedek.com
+  image: lizard
   alert: HOAX ALERT!
   auditor: mkkp.hu
-- domain: magyarnemzet.hu/
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/05/Dancing-Lizard-Man.gif
+- domain: magyarnemzet.hu
+  image: lizard
   alert: HOAX ALERT!
   auditor: mkkp.hu
-- domain: magyarnemzetikartya.hu/
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/05/Dancing-Lizard-Man.gif
+- domain: magyarnemzetikartya.hu
+  image: lizard
   alert: HOAX ALERT!
   auditor: mkkp.hu
 - domain: magyarnep.blogspot.hu
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/05/Dancing-Lizard-Man.gif
+  image: lizard
   alert: HOAX ALERT!
   auditor: mkkp.hu
-- domain: magyarnep.me/
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/05/Dancing-Lizard-Man.gif
+- domain: magyarnep.me
+  image: lizard
   alert: HOAX ALERT!
   auditor: mkkp.hu
 - domain: magyarno.com
-  image: https://mkkp.lazos.me/putinalert/dance.gif
+  image: putin
   alert: PUTIN ALERT!
   auditor: mkkp.hu
-- domain: magyarokrol.com/
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/05/Dancing-Lizard-Man.gif
+- domain: magyarokrol.com
+  image: lizard
   alert: HOAX ALERT!
   auditor: mkkp.hu
 - domain: magyarokvagyunk.com
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/05/Dancing-Lizard-Man.gif
+  image: lizard
   alert: HOAX ALERT!
   auditor: mkkp.hu
 - domain: magyarsziv.com
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/05/Dancing-Lizard-Man.gif
+  image: lizard
   alert: HOAX ALERT!
   auditor: mkkp.hu
 - domain: magyartudat.com
-  image: https://mkkp.lazos.me/putinalert/dance.gif
+  image: putin
   alert: PUTIN ALERT!
   auditor: mkkp.hu
 - domain: mai-friss.com
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/05/Dancing-Lizard-Man.gif
+  image: lizard
   alert: HOAX ALERT!
   auditor: mkkp.hu
 - domain: mai-hirek.net
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/05/Dancing-Lizard-Man.gif
+  image: lizard
   alert: HOAX ALERT!
   auditor: mkkp.hu
 - domain: maimagazin.blogspot.com
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/05/Dancing-Lizard-Man.gif
+  image: lizard
   alert: HOAX ALERT!
   auditor: mkkp.hu
 - domain: maivalosag.com
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/05/Dancing-Lizard-Man.gif
+  image: lizard
   alert: HOAX ALERT!
   auditor: mkkp.hu
 - domain: maivilag.com
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/05/Dancing-Lizard-Man.gif
+  image: lizard
   alert: HOAX ALERT!
   auditor: mkkp.hu
 - domain: majegeszsege.hu
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/05/Dancing-Lizard-Man.gif
+  image: lizard
   alert: HOAX ALERT!
   auditor: mkkp.hu
 - domain: mandiner.hu
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/06/orbanWS.gif
+  image: lazar
   alert: KORMÁNYPROPAGANDA ALERT!
   auditor: mkkp.hu
-- domain: masodikeljovetel.hu/
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/05/Dancing-Lizard-Man.gif
+- domain: masodikeljovetel.hu
+  image: lizard
   alert: HOAX ALERT!
   auditor: mkkp.hu
-- domain: mediacsoport.com/
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/05/Dancing-Lizard-Man.gif
+- domain: mediacsoport.com
+  image: lizard
   alert: HOAX ALERT!
   auditor: mkkp.hu
 - domain: mediavadasz.info
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/05/Dancing-Lizard-Man.gif
+  image: lizard
   alert: HOAX ALERT!
   auditor: mkkp.hu
 - domain: megbizhato.info
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/05/Dancing-Lizard-Man.gif
+  image: lizard
   alert: HOAX ALERT!
   auditor: mkkp.hu
 - domain: megdobbensz.info
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/05/Dancing-Lizard-Man.gif
+  image: lizard
   alert: HOAX ALERT!
   auditor: mkkp.hu
 - domain: megegymagyart.com
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/05/Dancing-Lizard-Man.gif
+  image: lizard
   alert: HOAX ALERT!
   auditor: mkkp.hu
 - domain: megoszthato.blogspot.hu
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/05/Dancing-Lizard-Man.gif
+  image: lizard
   alert: HOAX ALERT!
   auditor: mkkp.hu
 - domain: meteon.org
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/05/Dancing-Lizard-Man.gif
+  image: lizard
   alert: HOAX ALERT!
   auditor: mkkp.hu
-- domain: minap.hu/
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/05/Dancing-Lizard-Man.gif
+- domain: minap.hu
+  image: lizard
   alert: HOAX ALERT!
   auditor: mkkp.hu
 - domain: minden-egyben.com
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/05/Dancing-Lizard-Man.gif
+  image: lizard
   alert: HOAX ALERT!
   auditor: mkkp.hu
 - domain: mindenamikell.net
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/05/Dancing-Lizard-Man.gif
+  image: lizard
   alert: HOAX ALERT!
   auditor: mkkp.hu
 - domain: mindenbenegyblog.hu
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/05/Dancing-Lizard-Man.gif
+  image: lizard
   alert: HOAX ALERT!
   auditor: mkkp.hu
 - domain: mindenegyben-blog.com
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/05/Dancing-Lizard-Man.gif
+  image: lizard
   alert: HOAX ALERT!
   auditor: mkkp.hu
 - domain: mindenegyben-blog.net
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/05/Dancing-Lizard-Man.gif
+  image: lizard
   alert: HOAX ALERT!
   auditor: mkkp.hu
-- domain: mindenegyben.co/
-  image: https://mkkp.lazos.me/putinalert/dance.gif
+- domain: mindenegyben.co
+  image: putin
   alert: PUTIN ALERT!
   auditor: mkkp.hu
 - domain: mindenegyben.com
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/05/Dancing-Lizard-Man.gif
+  image: lizard
   alert: HOAX ALERT!
   auditor: mkkp.hu
 - domain: mindenegyben.net
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/05/Dancing-Lizard-Man.gif
+  image: lizard
   alert: HOAX ALERT!
   auditor: mkkp.hu
 - domain: mindenegybenblog.com
-  image: https://mkkp.lazos.me/putinalert/dance.gif
+  image: putin
   alert: PUTIN ALERT!
   auditor: mkkp.hu
 - domain: mindenegybenblog.hu
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/05/Dancing-Lizard-Man.gif
+  image: lizard
   alert: HOAX ALERT!
   auditor: mkkp.hu
 - domain: mindenegybenblog.net
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/05/Dancing-Lizard-Man.gif
+  image: lizard
   alert: HOAX ALERT!
   auditor: mkkp.hu
 - domain: mindenegybenblogs.hu
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/05/Dancing-Lizard-Man.gif
+  image: lizard
   alert: HOAX ALERT!
   auditor: mkkp.hu
 - domain: mindenegybenoldal.blogspot.com
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/05/Dancing-Lizard-Man.gif
+  image: lizard
   alert: HOAX ALERT!
   auditor: mkkp.hu
 - domain: mindenegyhelyen.info
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/05/Dancing-Lizard-Man.gif
+  image: lizard
   alert: HOAX ALERT!
   auditor: mkkp.hu
 - domain: mindenegyhelyenblog.com
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/05/Dancing-Lizard-Man.gif
+  image: lizard
   alert: HOAX ALERT!
   auditor: mkkp.hu
 - domain: mindenrolmost.blogspot.hu
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/05/Dancing-Lizard-Man.gif
+  image: lizard
   alert: HOAX ALERT!
   auditor: mkkp.hu
 - domain: mindenszo.hu
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/06/orbanWS.gif
+  image: lazar
   alert: KORMÁNYPROPAGANDA ALERT!
   auditor: mkkp.hu
-- domain: miniszterelnok.hu/
-  image: https://i.imgur.com/l9JB28v.gif
+- domain: miniszterelnok.hu
+  image: lazar
   alert: KORMÁNYPROPAGANDA ALERT!
   auditor: mkkp.hu
 - domain: mivilagunk.com
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/05/Dancing-Lizard-Man.gif
+  image: lizard
   alert: HOAX ALERT!
   auditor: mkkp.hu
 - domain: mokavilag.com
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/05/Dancing-Lizard-Man.gif
+  image: lizard
   alert: HOAX ALERT!
   auditor: mkkp.hu
-- domain: mokavilag.com/index.php
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/05/Dancing-Lizard-Man.gif
+- domain: mokavilag.comindex.php
+  image: lizard
   alert: HOAX ALERT!
   auditor: mkkp.hu
 - domain: mokazona.eu
-  image: https://mkkp.lazos.me/putinalert/dance.gif
+  image: putin
   alert: PUTIN ALERT!
   auditor: mkkp.hu
-- domain: mokuskerek.club/
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/05/Dancing-Lizard-Man.gif
+- domain: mokuskerek.club
+  image: lizard
   alert: HOAX ALERT!
   auditor: mkkp.hu
 - domain: morickamegpiskota.housefmradio.eu
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/05/Dancing-Lizard-Man.gif
+  image: lizard
   alert: HOAX ALERT!
   auditor: mkkp.hu
 - domain: mosolyklubb.eu
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/05/Dancing-Lizard-Man.gif
+  image: lizard
   alert: HOAX ALERT!
   auditor: mkkp.hu
 - domain: mulato.info
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/05/Dancing-Lizard-Man.gif
+  image: lizard
   alert: HOAX ALERT!
   auditor: mkkp.hu
 - domain: nagyonerdekes.com
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/05/Dancing-Lizard-Man.gif
+  image: lizard
   alert: HOAX ALERT!
   auditor: mkkp.hu
 - domain: nagyonjoo.com
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/05/Dancing-Lizard-Man.gif
+  image: lizard
   alert: HOAX ALERT!
   auditor: mkkp.hu
-- domain: naphir.com/
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/05/Dancing-Lizard-Man.gif
+- domain: naphir.com
+  image: lizard
   alert: HOAX ALERT!
   auditor: mkkp.hu
 - domain: napi-friss.com
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/05/Dancing-Lizard-Man.gif
+  image: lizard
   alert: HOAX ALERT!
   auditor: mkkp.hu
 - domain: napi-hir.net
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/05/Dancing-Lizard-Man.gif
+  image: lizard
   alert: HOAX ALERT!
   auditor: mkkp.hu
 - domain: napi-hirek.net
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/05/Dancing-Lizard-Man.gif
+  image: lizard
   alert: HOAX ALERT!
   auditor: mkkp.hu
 - domain: napi-humor.hu
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/05/Dancing-Lizard-Man.gif
+  image: lizard
   alert: HOAX ALERT!
   auditor: mkkp.hu
 - domain: napicsaj.eu
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/05/Dancing-Lizard-Man.gif
+  image: lizard
   alert: HOAX ALERT!
   auditor: mkkp.hu
 - domain: napihirek.net
-  image: https://ketfarkukutya.mkkp.party/wp-content/uploads/2020/02/Webp.net-gifmaker.gif?fbclid=IwAR3oN7TzKW2splu1_j_z407BSZiD-t2xQLtTyoZRLzRkhNCVx_Kpd1lxo3s
+  image: lizard
   alert: HOAX ALERT!
   auditor: mkkp.hu
 - domain: napihirozon.eu
-  image: https://mkkp.lazos.me/putinalert/dance.gif
+  image: putin
   alert: PUTIN ALERT!
   auditor: mkkp.hu
 - domain: napimigrans.com
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/06/orbanWS.gif
+  image: lazar
   alert: KORMÁNYPROPAGANDA ALERT!
   auditor: mkkp.hu
 - domain: napimigrans.info
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/06/orbanWS.gif
+  image: lazar
   alert: KORMÁNYPROPAGANDA ALERT!
   auditor: mkkp.hu
 - domain: napitemazas.blogspot.hu
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/05/Dancing-Lizard-Man.gif
+  image: lizard
   alert: HOAX ALERT!
   auditor: mkkp.hu
 - domain: napitrend.blogspot.hu
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/05/Dancing-Lizard-Man.gif
+  image: lizard
   alert: HOAX ALERT!
   auditor: mkkp.hu
-- domain: napiujsag.hu/
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/05/Dancing-Lizard-Man.gif
+- domain: napiujsag.hu
+  image: lizard
   alert: HOAX ALERT!
   auditor: mkkp.hu
 - domain: napivalasztek.com
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/05/Dancing-Lizard-Man.gif
+  image: lizard
   alert: HOAX ALERT!
   auditor: mkkp.hu
 - domain: naplo-extra.com
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/05/Dancing-Lizard-Man.gif
+  image: lizard
   alert: HOAX ALERT!
   auditor: mkkp.hu
-- domain: naplo.hu/
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/06/orbanWS.gif
+- domain: naplo.hu
+  image: lazar
   alert: KORMÁNYPROPAGANDA ALERT!
   auditor: mkkp.hu
 - domain: naplopo.info
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/05/Dancing-Lizard-Man.gif
+  image: lizard
   alert: HOAX ALERT!
   auditor: mkkp.hu
-- domain: nationalreport.net/
-  image: https://i.imgur.com/l9JB28v.gif
+- domain: nationalreport.net
+  image: lazar
   alert: KORMÁNYPROPAGANDA ALERT!
   auditor: mkkp.hu
 - domain: naturahirek.com
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/05/Dancing-Lizard-Man.gif
+  image: lizard
   alert: HOAX ALERT!
   auditor: mkkp.hu
-- domain: naturahirek.hu/
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/05/Dancing-Lizard-Man.gif
+- domain: naturahirek.hu
+  image: lizard
   alert: HOAX ALERT!
   auditor: mkkp.hu
 - domain: nekemtetszik.net
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/05/Dancing-Lizard-Man.gif
+  image: lizard
   alert: HOAX ALERT!
   auditor: mkkp.hu
 - domain: nemadomahazamat.hu
-  image: https://mkkp.lazos.me/putinalert/dance.gif
+  image: putin
   alert: PUTIN ALERT!
   auditor: mkkp.hu
 - domain: nemzeti.net
-  image: https://mkkp.lazos.me/putinalert/dance.gif
+  image: putin
   alert: PUTIN ALERT!
   auditor: mkkp.hu
 - domain: nemzetiarcvonal.net
-  image: https://mkkp.lazos.me/putinalert/dance.gif
+  image: putin
   alert: PUTIN ALERT!
   auditor: mkkp.hu
 - domain: nemzetibulvar.hu
-  image: https://mkkp.lazos.me/putinalert/dance.gif
+  image: putin
   alert: PUTIN ALERT!
   auditor: mkkp.hu
 - domain: nemzetihirhalo.hu
-  image: https://mkkp.lazos.me/putinalert/dance.gif
+  image: putin
   alert: PUTIN ALERT!
   auditor: mkkp.hu
 - domain: nep-szava.blogspot.hu
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/05/Dancing-Lizard-Man.gif
+  image: lizard
   alert: HOAX ALERT!
   auditor: mkkp.hu
 - domain: netbetyar.me
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/05/Dancing-Lizard-Man.gif
+  image: lizard
   alert: HOAX ALERT!
   auditor: mkkp.hu
 - domain: netbulvar.com
-  image: https://mkkp.lazos.me/putinalert/dance.gif
+  image: putin
   alert: PUTIN ALERT!
   auditor: mkkp.hu
 - domain: netbulvar.eu
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/05/Dancing-Lizard-Man.gif
+  image: lizard
   alert: HOAX ALERT!
   auditor: mkkp.hu
 - domain: netceleb.hu
-  image: https://mkkp.lazos.me/putinalert/dance.gif
+  image: putin
   alert: PUTIN ALERT!
   auditor: mkkp.hu
 - domain: netextra.hu
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/05/Dancing-Lizard-Man.gif
+  image: lizard
   alert: HOAX ALERT!
   auditor: mkkp.hu
 - domain: nethir.com
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/05/Dancing-Lizard-Man.gif
+  image: lizard
   alert: HOAX ALERT!
   auditor: mkkp.hu
 - domain: nethir.eu
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/05/Dancing-Lizard-Man.gif
+  image: lizard
   alert: HOAX ALERT!
   auditor: mkkp.hu
 - domain: netujsag.info
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/05/Dancing-Lizard-Man.gif
+  image: lizard
   alert: HOAX ALERT!
   auditor: mkkp.hu
-- domain: netujsag.info/
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/05/Dancing-Lizard-Man.gif
+- domain: netujsag.info
+  image: lizard
   alert: HOAX ALERT!
   auditor: mkkp.hu
 - domain: netujsag.net
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/05/Dancing-Lizard-Man.gif
+  image: lizard
   alert: HOAX ALERT!
   auditor: mkkp.hu
 - domain: nlcafe.me
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/05/Dancing-Lizard-Man.gif
+  image: lizard
   alert: HOAX ALERT!
   auditor: mkkp.hu
 - domain: nlcafe.me
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/05/Dancing-Lizard-Man.gif
+  image: lizard
   alert: HOAX ALERT!
   auditor: mkkp.hu
 - domain: nokert.info
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/05/Dancing-Lizard-Man.gif
+  image: lizard
   alert: HOAX ALERT!
   auditor: mkkp.hu
 - domain: nool.hu
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/06/orbanWS.gif
+  image: lazar
   alert: KORMÁNYPROPAGANDA ALERT!
   auditor: mkkp.hu
 - domain: nool.hu
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/06/orbanWS.gif
+  image: lazar
   alert: KORMÁNYPROPAGANDA ALERT!
   auditor: mkkp.hu
 - domain: nyaralok.net
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/05/Dancing-Lizard-Man.gif
+  image: lizard
   alert: HOAX ALERT!
   auditor: mkkp.hu
 - domain: nyugatifeny.hu
-  image: https://ketfarkukutya.mkkp.party/wp-content/uploads/2020/02/Webp.net-gifmaker.gif?fbclid=IwAR3oN7TzKW2splu1_j_z407BSZiD-t2xQLtTyoZRLzRkhNCVx_Kpd1lxo3s
+  image: lizard
   alert: HOAX ALERT!
   auditor: mkkp.hu
 - domain: nyugdij.info
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/05/Dancing-Lizard-Man.gif
+  image: lizard
   alert: HOAX ALERT!
   auditor: mkkp.hu
 - domain: nyugdijasok.com
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/05/Dancing-Lizard-Man.gif
+  image: lizard
   alert: HOAX ALERT!
   auditor: mkkp.hu
 - domain: nyugdijasok.hu
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/05/Dancing-Lizard-Man.gif
+  image: lizard
   alert: HOAX ALERT!
   auditor: mkkp.hu
 - domain: olkt.hu
-  image: https://ketfarkukutya.mkkp.party/wp-content/uploads/2020/02/Webp.net-gifmaker.gif?fbclid=IwAR3oN7TzKW2splu1_j_z407BSZiD-t2xQLtTyoZRLzRkhNCVx_Kpd1lxo3s
+  image: lizard
   alert: A LIPSI HOAX IS HOAX!
   auditor: mkkp.hu
 - domain: online-kalkulator.hu
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/05/Dancing-Lizard-Man.gif
+  image: lizard
   alert: HOAX ALERT!
   auditor: mkkp.hu
 - domain: onlineelet.info
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/05/Dancing-Lizard-Man.gif
+  image: lizard
   alert: HOAX ALERT!
   auditor: mkkp.hu
 - domain: organikusok.blogspot.hu
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/05/Dancing-Lizard-Man.gif
+  image: lizard
   alert: HOAX ALERT!
   auditor: mkkp.hu
 - domain: orientalista.hu
-  image: https://mkkp.lazos.me/putinalert/dance.gif
+  image: putin
   alert: PUTIN ALERT!
   auditor: mkkp.hu
 - domain: origo-blog.com
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/05/Dancing-Lizard-Man.gif
+  image: lizard
   alert: HOAX ALERT!
   auditor: mkkp.hu
 - domain: origo-hirek.net
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/05/Dancing-Lizard-Man.gif
+  image: lizard
   alert: HOAX ALERT!
   auditor: mkkp.hu
 - domain: origo-online.eu
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/05/Dancing-Lizard-Man.gif
+  image: lizard
   alert: HOAX ALERT!
   auditor: mkkp.hu
 - domain: origo-online.info
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/05/Dancing-Lizard-Man.gif
+  image: lizard
   alert: HOAX ALERT!
   auditor: mkkp.hu
 - domain: origo-online.net
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/05/Dancing-Lizard-Man.gif
+  image: lizard
   alert: HOAX ALERT!
   auditor: mkkp.hu
 - domain: origo.hu
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/06/orbanWS.gif
+  image: lazar
   alert: KORMÁNYPROPAGANDA ALERT!
   auditor: mkkp.hu
 - domain: origo.hu
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/06/orbanWS.gif
+  image: lazar
   alert: KORMÁNYPROPAGANDA ALERT!
   auditor: mkkp.hu
 - domain: origoblog.net
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/05/Dancing-Lizard-Man.gif
+  image: lizard
   alert: HOAX ALERT!
   auditor: mkkp.hu
 - domain: origohir.net
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/05/Dancing-Lizard-Man.gif
+  image: lizard
   alert: HOAX ALERT!
   auditor: mkkp.hu
 - domain: origoonline.net
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/05/Dancing-Lizard-Man.gif
+  image: lizard
   alert: HOAX ALERT!
   auditor: mkkp.hu
 - domain: oroszhirek.hu
-  image: https://mkkp.lazos.me/putinalert/dance.gif
+  image: putin
   alert: PUTIN ALERT!
   auditor: mkkp.hu
-- domain: oroszvilag.hu/
-  image: https://mkkp.lazos.me/putinalert/dance.gif
+- domain: oroszvilag.hu
+  image: putin
   alert: PUTIN ALERT
   auditor: mkkp.hu
 - domain: oszdmeg.hu
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/05/Dancing-Lizard-Man.gif
+  image: lizard
   alert: HOAX ALERT!
   auditor: mkkp.hu
 - domain: otletdivak.hu
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/05/Dancing-Lizard-Man.gif
+  image: lizard
   alert: HOAX ALERT!
   auditor: mkkp.hu
 - domain: otpercpiheno.blogspot.com
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/05/Dancing-Lizard-Man.gif
+  image: lizard
   alert: HOAX ALERT!
   auditor: mkkp.hu
 - domain: otpercpiheno.com
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/05/Dancing-Lizard-Man.gif
+  image: lizard
   alert: HOAX ALERT!
   auditor: mkkp.hu
-- domain: otpercpiheno.com/
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/05/Dancing-Lizard-Man.gif
+- domain: otpercpiheno.com
+  image: lizard
   alert: HOAX ALERT!
   auditor: mkkp.hu
 - domain: otpercpiheno.hu
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/05/Dancing-Lizard-Man.gif
+  image: lizard
   alert: HOAX ALERT!
   auditor: mkkp.hu
 - domain: palyazat.org
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/05/Dancing-Lizard-Man.gif
+  image: lizard
   alert: HOAX ALERT!
   auditor: mkkp.hu
 - domain: palyazatfigyelo.info
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/05/Dancing-Lizard-Man.gif
+  image: lizard
   alert: HOAX ALERT!
   auditor: mkkp.hu
 - domain: palyazatinfok.hu
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/05/Dancing-Lizard-Man.gif
+  image: lizard
   alert: HOAX ALERT!
   auditor: mkkp.hu
 - domain: paranormal.hu
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/05/Dancing-Lizard-Man.gif
+  image: lizard
   alert: HOAX ALERT!
   auditor: mkkp.hu
-- domain: paranormal.hu/
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/05/Dancing-Lizard-Man.gif
+- domain: paranormal.hu
+  image: lizard
   alert: HOAX ALERT!
   auditor: mkkp.hu
 - domain: paxhungarica.org
-  image: https://mkkp.lazos.me/putinalert/dance.gif
+  image: putin
   alert: PUTIN ALERT!
   auditor: mkkp.hu
 - domain: pestibulvar.hu
-  image: https://ketfarkukutya.mkkp.party/wp-content/uploads/2020/02/Webp.net-gifmaker.gif?fbclid=IwAR3oN7TzKW2splu1_j_z407BSZiD-t2xQLtTyoZRLzRkhNCVx_Kpd1lxo3s
+  image: lizard
   alert: A LIPSI HOAX IS HOAX!
   auditor: mkkp.hu
 - domain: pestisracok.hu
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/06/orbanWS.gif
+  image: lazar
   alert: KORMÁNYPROPAGANDA ALERT!
   auditor: mkkp.hu
 - domain: phuphi.com
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/05/Dancing-Lizard-Man.gif
+  image: lizard
   alert: 'HOAX ALERT! '
   auditor: mkkp.hu
 - domain: pirospirula.blogspot.com
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/05/Dancing-Lizard-Man.gif
+  image: lizard
   alert: HOAX ALERT!
   auditor: mkkp.hu
 - domain: pletyka.eu
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/05/Dancing-Lizard-Man.gif
+  image: lizard
   alert: HOAX ALERT!
   auditor: mkkp.hu
 - domain: pluszcafe.hu
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/05/Dancing-Lizard-Man.gif
+  image: lizard
   alert: HOAX ALERT!
   auditor: mkkp.hu
 - domain: polgarportal.hu
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/06/orbanWS.gif
+  image: lazar
   alert: KORMÁNYPROPAGANDA ALERT!
   auditor: mkkp.hu
 - domain: popec.net
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/05/Dancing-Lizard-Man.gif
+  image: lizard
   alert: HOAX ALERT!
   auditor: mkkp.hu
 - domain: postaimre.magyarnemzetikormany.com
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/05/Dancing-Lizard-Man.gif
+  image: lizard
   alert: HOAX ALERT!
   auditor: mkkp.hu
 - domain: prokontra.hu
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/05/Dancing-Lizard-Man.gif
+  image: lizard
   alert: HOAX ALERT!
   auditor: mkkp.hu
 - domain: promenad.hu
-  image: https://i.imgur.com/l9JB28v.gif
+  image: lazar
   alert: KORMÁNYPROPAGANDA ALERT!
   auditor: mkkp.hu
 - domain: rapidpress.info
-  image: https://mkkp.lazos.me/putinalert/dance.gif
+  image: putin
   alert: PUTIN ALERT!
   auditor: mkkp.hu
 - domain: realzoldek.hu
-  image: https://mkkp.lazos.me/putinalert/dance.gif
+  image: putin
   alert: PUTIN ALERT!
   auditor: mkkp.hu
 - domain: rejtelyekszigete.com
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/05/Dancing-Lizard-Man.gif
+  image: lizard
   alert: HOAX ALERT!
   auditor: mkkp.hu
 - domain: remekcikkek.com
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/05/Dancing-Lizard-Man.gif
+  image: lizard
   alert: HOAX ALERT!
   auditor: mkkp.hu
 - domain: reszvetel.blogspot.com
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/05/Dancing-Lizard-Man.gif
+  image: lizard
   alert: HOAX ALERT!
   auditor: mkkp.hu
 - domain: ripost.hu
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/05/Dancing-Lizard-Man.gif
+  image: lizard
   alert: HOAX ALERT!
   auditor: mkkp.hu
 - domain: rt.com
-  image: https://mkkp.lazos.me/putinalert/dance.gif
+  image: putin
   alert: PUTIN ALERT
   auditor: mkkp.hu
 - domain: rtl-hirek2.blogspot.hu
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/05/Dancing-Lizard-Man.gif
+  image: lizard
   alert: HOAX ALERT!
   auditor: mkkp.hu
 - domain: rtl-klub.me
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/05/Dancing-Lizard-Man.gif
+  image: lizard
   alert: HOAX ALERT!
   auditor: mkkp.hu
 - domain: rtl-most.blogspot.hu
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/05/Dancing-Lizard-Man.gif
+  image: lizard
   alert: HOAX ALERT!
   auditor: mkkp.hu
 - domain: rtlhirek-online.com
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/05/Dancing-Lizard-Man.gif
+  image: lizard
   alert: HOAX ALERT!
   auditor: mkkp.hu
 - domain: sarcasmlol.eu
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/05/Dancing-Lizard-Man.gif
+  image: lizard
   alert: HOAX ALERT!
   auditor: mkkp.hu
 - domain: simsim.eu
-  image: https://mkkp.lazos.me/putinalert/dance.gif
+  image: putin
   alert: PUTIN ALERT!
   auditor: mkkp.hu
 - domain: skubizd.info
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/05/Dancing-Lizard-Man.gif
+  image: lizard
   alert: HOAX ALERT!
   auditor: mkkp.hu
 - domain: sokkaljobb.hu
-  image: https://mkkp.lazos.me/putinalert/dance.gif
+  image: putin
   alert: PUTIN ALERT!
   auditor: mkkp.hu
 - domain: sokminden.info
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/05/Dancing-Lizard-Man.gif
+  image: lizard
   alert: HOAX ALERT!
   auditor: mkkp.hu
 - domain: sonline.hu
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/06/orbanWS.gif
+  image: lazar
   alert: KORMÁNYPROPAGANDA ALERT!
   auditor: mkkp.hu
 - domain: sosefeledd.hu
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/05/Dancing-Lizard-Man.gif
+  image: lizard
   alert: HOAX ALERT!
   auditor: mkkp.hu
 - domain: sputniknews.com
-  image: https://mkkp.lazos.me/putinalert/dance.gif
+  image: putin
   alert: PUTIN ALERT
   auditor: mkkp.hu
 - domain: stoffangyorgy.blogspot.com
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/05/Dancing-Lizard-Man.gif
+  image: lizard
   alert: HOAX ALERT!
   auditor: mkkp.hu
-- domain: storyvilag.com/hu
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/05/Dancing-Lizard-Man.gif
+- domain: storyvilag.comhu
+  image: lizard
   alert: HOAX ALERT!
   auditor: mkkp.hu
-- domain: sungazing.webnode.hu/
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/05/Dancing-Lizard-Man.gif
+- domain: sungazing.webnode.hu
+  image: lizard
   alert: HOAX ALERT!
   auditor: mkkp.hu
 - domain: szabadonebredok.info
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/05/Dancing-Lizard-Man.gif
+  image: lizard
   alert: HOAX ALERT!
   auditor: mkkp.hu
 - domain: szabadriport.wordpress.com
-  image: https://mkkp.lazos.me/putinalert/dance.gif
+  image: putin
   alert: PUTIN ALERT
   auditor: mkkp.hu
 - domain: szarvasember.iwdesign.org
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/05/Dancing-Lizard-Man.gif
+  image: lizard
   alert: HOAX ALERT!
   auditor: mkkp.hu
 - domain: Szegedma.hu
-  image: https://mkkp.lazos.me/putinalert/dance.gif
+  image: putin
   alert: PUTIN ALERT
   auditor: mkkp.hu
 - domain: szellemvilag.hu
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/05/Dancing-Lizard-Man.gif
+  image: lizard
   alert: HOAX ALERT!
   auditor: mkkp.hu
 - domain: szemlelo.com
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/05/Dancing-Lizard-Man.gif
+  image: lizard
   alert: HOAX ALERT!
   auditor: mkkp.hu
-- domain: szerencsemano.info/
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/05/Dancing-Lizard-Man.gif
+- domain: szerencsemano.info
+  image: lizard
   alert: HOAX ALERT!
   auditor: mkkp.hu
 - domain: szerencses.info
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/05/Dancing-Lizard-Man.gif
+  image: lizard
   alert: HOAX ALERT!
   auditor: mkkp.hu
 - domain: szinesvidek.blogspot.hu
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/05/Dancing-Lizard-Man.gif
+  image: lizard
   alert: HOAX ALERT!
   auditor: mkkp.hu
 - domain: szoljon.hu
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/06/orbanWS.gif
+  image: lazar
   alert: KORMÁNYPROPAGANDA ALERT!
   auditor: mkkp.hu
 - domain: szon.hu
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/06/orbanWS.gif
+  image: lazar
   alert: KORMÁNYPROPAGANDA ALERT!
   auditor: mkkp.hu
 - domain: sztorivilag.com
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/05/Dancing-Lizard-Man.gif
+  image: lizard
   alert: HOAX ALERT!
   auditor: mkkp.hu
 - domain: szupcsi.eu
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/05/Dancing-Lizard-Man.gif
+  image: lizard
   alert: HOAX ALERT!
   auditor: mkkp.hu
 - domain: szupertanacsok.blog.hu
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/05/Dancing-Lizard-Man.gif
+  image: lizard
   alert: HOAX ALERT!
   auditor: mkkp.hu
 - domain: szupertanacsokblog.hu
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/05/Dancing-Lizard-Man.gif
+  image: lizard
   alert: HOAX ALERT!
   auditor: mkkp.hu
 - domain: tamogatas.net
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/05/Dancing-Lizard-Man.gif
+  image: lizard
   alert: HOAX ALERT!
   auditor: mkkp.hu
 - domain: tenyek-online.com
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/05/Dancing-Lizard-Man.gif
+  image: lizard
   alert: HOAX ALERT!
   auditor: mkkp.hu
 - domain: tenyek.hu
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/05/Dancing-Lizard-Man.gif
+  image: lizard
   alert: KORMÁNYPROPAGANDA ALERT!
   auditor: mkkp.hu
 - domain: tenyek24.eu
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/05/Dancing-Lizard-Man.gif
+  image: lizard
   alert: HOAX ALERT!
   auditor: mkkp.hu
 - domain: tenyek24.net
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/05/Dancing-Lizard-Man.gif
+  image: lizard
   alert: HOAX ALERT!
   auditor: mkkp.hu
 - domain: teol.hu
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/06/orbanWS.gif
+  image: lazar
   alert: KORMÁNYPROPAGANDA ALERT!
   auditor: mkkp.hu
 - domain: termeszetgyogyasz.lap.hu
-  image: https://ketfarkukutya.mkkp.party/wp-content/uploads/2020/02/rigobcsai.gif?fbclid=IwAR3ZidHHLeyLThqjKA36gzH4PRepso_MxtPmZ4e-TwjcvaCxOE-eP1P5SVk
+  image: rigobacsi
   alert: megtévesztő, ellenőrizd!
   auditor: mkkp.hu
 - domain: tgy-magazin.hu
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/05/Dancing-Lizard-Man.gif
+  image: lizard
   alert: HOAX ALERT!
   auditor: mkkp.hu
 - domain: thehungariantimes.hu
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/05/Dancing-Lizard-Man.gif
+  image: lizard
   alert: HOAX ALERT!
   auditor: mkkp.hu
 - domain: thenews.hu
-  image: https://mkkp.lazos.me/putinalert/dance.gif
+  image: putin
   alert: PUTIN ALERT
   auditor: mkkp.hu
 - domain: theonion.com
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/05/Dancing-Lizard-Man.gif
+  image: lizard
   alert: HOAX ALERT!
   auditor: mkkp.hu
 - domain: thepost.hu
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/05/Dancing-Lizard-Man.gif
+  image: lizard
   alert: HOAX ALERT!
   auditor: mkkp.hu
 - domain: thepost.hu
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/05/Dancing-Lizard-Man.gif
+  image: lizard
   alert: HOAX ALERT!
   auditor: mkkp.hu
 - domain: tiltott.net
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/05/Dancing-Lizard-Man.gif
+  image: lizard
   alert: HOAX ALERT!
   auditor: mkkp.hu
-- domain: tisztamagia.com/
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/05/Dancing-Lizard-Man.gif
+- domain: tisztamagia.com
+  image: lizard
   alert: HOAX ALERT!
   auditor: mkkp.hu
 - domain: titkokszigete.hu
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/05/Dancing-Lizard-Man.gif
+  image: lizard
   alert: HOAX ALERT!
   auditor: mkkp.hu
 - domain: titkolthirek.hu
-  image: https://mkkp.lazos.me/putinalert/dance.gif
+  image: putin
   alert: PUTIN ALERT
   auditor: mkkp.hu
 - domain: titkoshirek.wordpress.com
-  image: https://mkkp.lazos.me/putinalert/dance.gif
+  image: putin
   alert: PUTIN ALERT
   auditor: mkkp.hu
 - domain: titokterminal.com
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/05/Dancing-Lizard-Man.gif
+  image: lizard
   alert: HOAX ALERT!
   auditor: mkkp.hu
 - domain: top-hirek.com
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/05/Dancing-Lizard-Man.gif
+  image: lizard
   alert: HOAX ALERT!
   auditor: mkkp.hu
 - domain: tophir.eu
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/05/Dancing-Lizard-Man.gif
+  image: lizard
   alert: HOAX ALERT!
   auditor: mkkp.hu
 - domain: tophirek.hu
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/05/Dancing-Lizard-Man.gif
+  image: lizard
   alert: HOAX ALERT!
   auditor: mkkp.hu
 - domain: tortenetekanagyvilagbol.info
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/05/Dancing-Lizard-Man.gif
+  image: lizard
   alert: HOAX ALERT!
   auditor: mkkp.hu
 - domain: tudasfaja.club
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/05/Dancing-Lizard-Man.gif
+  image: lizard
   alert: HOAX ALERT!
   auditor: mkkp.hu
-- domain: tudasfaja.com/
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/05/Dancing-Lizard-Man.gif
+- domain: tudasfaja.com
+  image: lizard
   alert: HOAX ALERT!
   auditor: mkkp.hu
 - domain: tudaskor.com
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/05/Dancing-Lizard-Man.gif
+  image: lizard
   alert: HOAX ALERT!
   auditor: mkkp.hu
 - domain: tudathalo.blogspot.hu
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/05/Dancing-Lizard-Man.gif
+  image: lizard
   alert: HOAX ALERT!
   auditor: mkkp.hu
 - domain: tudatosanelok.com
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/05/Dancing-Lizard-Man.gif
+  image: lizard
   alert: HOAX ALERT!
   auditor: mkkp.hu
 - domain: tudnivalok.com
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/05/Dancing-Lizard-Man.gif
+  image: lizard
   alert: HOAX ALERT!
   auditor: mkkp.hu
 - domain: tudnivalok.eu
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/05/Dancing-Lizard-Man.gif
+  image: lizard
   alert: HOAX ALERT!
   auditor: mkkp.hu
 - domain: tudnodkel.blogspot.com
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/05/Dancing-Lizard-Man.gif
+  image: lizard
   alert: HOAX ALERT!
   auditor: mkkp.hu
 - domain: tudnodkell.blogspot.com
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/05/Dancing-Lizard-Man.gif
+  image: lizard
   alert: HOAX ALERT!
   auditor: mkkp.hu
 - domain: tudnodkell.info
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/05/Dancing-Lizard-Man.gif
+  image: lizard
   alert: HOAX ALERT!
   auditor: mkkp.hu
-- domain: tunderkiralysag.lapunk.hu/
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/05/Dancing-Lizard-Man.gif
+- domain: tunderkiralysag.lapunk.hu
+  image: lizard
   alert: HOAX ALERT!
   auditor: mkkp.hu
 - domain: tutihirek.org
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/05/Dancing-Lizard-Man.gif
+  image: lizard
   alert: HOAX ALERT!
   auditor: mkkp.hu
 - domain: tuzfalcsoport.blogstar.hu
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/06/orbanWS.gif
+  image: lazar
   alert: KORMÁNYPROPAGANDA ALERT!
   auditor: mkkp.hu
 - domain: tv2-friss.com
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/05/Dancing-Lizard-Man.gif
+  image: lizard
   alert: HOAX ALERT!
   auditor: mkkp.hu
 - domain: tv2-hirado.me
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/05/Dancing-Lizard-Man.gif
+  image: lizard
   alert: HOAX ALERT!
   auditor: mkkp.hu
-- domain: tv2-most.me/
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/05/Dancing-Lizard-Man.gif
+- domain: tv2-most.me
+  image: lizard
   alert: HOAX ALERT!
   auditor: mkkp.hu
 - domain: tv2.hu
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/06/orbanWS.gif
+  image: lazar
   alert: KORMÁNYPROPAGANDA ALERT!
   auditor: mkkp.hu
 - domain: tvhir.com
-  image: https://mkkp.lazos.me/putinalert/dance.gif
+  image: putin
   alert: PUTIN ALERT
   auditor: mkkp.hu
 - domain: twice.hu
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/05/Dancing-Lizard-Man.gif
+  image: lizard
   alert: HOAX ALERT!
   auditor: mkkp.hu
-- domain: ujmagyarverszovetseg.network.hu/
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/05/Dancing-Lizard-Man.gif
+- domain: ujmagyarverszovetseg.network.hu
+  image: lizard
   alert: HOAX ALERT!
   auditor: mkkp.hu
 - domain: ujvilagtudat.blogspot.hu
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/05/Dancing-Lizard-Man.gif
+  image: lizard
   alert: HOAX ALERT!
   auditor: mkkp.hu
 - domain: utcaembereiblog.net
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/05/Dancing-Lizard-Man.gif
+  image: lizard
   alert: HOAX ALERT!
   auditor: mkkp.hu
 - domain: utcaemberek.blogspot.hu
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/05/Dancing-Lizard-Man.gif
+  image: lizard
   alert: HOAX ALERT!
   auditor: mkkp.hu
 - domain: vadhajtasok.hu
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/06/orbanWS.gif
+  image: lazar
   alert: KORMÁNYPROPAGANDA ALERT!
   auditor: mkkp.hu
 - domain: vakarek.info
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/05/Dancing-Lizard-Man.gif
+  image: lizard
   alert: HOAX ALERT!
   auditor: mkkp.hu
 - domain: valosag.net
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/05/Dancing-Lizard-Man.gif
+  image: lizard
   alert: HOAX ALERT!
   auditor: mkkp.hu
 - domain: valovilag1.blogspot.com
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/05/Dancing-Lizard-Man.gif
+  image: lizard
   alert: HOAX ALERT!
   auditor: mkkp.hu
 - domain: valovilag1.blogspot.com
-  image: https://mkkp.lazos.me/putinalert/dance.gif
+  image: putin
   alert: PUTIN ALERT!
   auditor: mkkp.hu
 - domain: vaol.hu
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/06/orbanWS.gif
+  image: lazar
   alert: KORMÁNYPROPAGANDA ALERT!
   auditor: mkkp.hu
 - domain: varazslat.co
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/05/Dancing-Lizard-Man.gif
+  image: lizard
   alert: HOAX ALERT!
   auditor: mkkp.hu
-- domain: vasarhely24.com/
-  image: https://i.imgur.com/l9JB28v.gif
+- domain: vasarhely24.com
+  image: lazar
   alert: KORMÁNYPROPAGANDA ALERT!
   auditor: mkkp.hu
-- domain: vasarhelyitv.hu/
-  image: https://i.imgur.com/l9JB28v.gif
+- domain: vasarhelyitv.hu
+  image: lazar
   alert: KORMÁNYPROPAGANDA ALERT!
   auditor: mkkp.hu
-- domain: vasivasmacska.blog.hu/
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/05/Dancing-Lizard-Man.gif
+- domain: vasivasmacska.blog.hu
+  image: lizard
   alert: HOAX ALERT!
   auditor: mkkp.hu
 - domain: vattacukor.net
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/05/Dancing-Lizard-Man.gif
+  image: lizard
   alert: HOAX ALERT!
   auditor: mkkp.hu
-- domain: vedikusalkimia.hu/
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/05/Dancing-Lizard-Man.gif
+- domain: vedikusalkimia.hu
+  image: lizard
   alert: HOAX ALERT!
   auditor: mkkp.hu
 - domain: veol.hu
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/06/orbanWS.gif
+  image: lazar
   alert: KORMÁNYPROPAGANDA ALERT!
   auditor: mkkp.hu
 - domain: vicces-humoros.com
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/05/Dancing-Lizard-Man.gif
+  image: lizard
   alert: HOAX ALERT!
   auditor: mkkp.hu
 - domain: vidamsag.postr.hu
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/05/Dancing-Lizard-Man.gif
+  image: lizard
   alert: HOAX ALERT!
   auditor: mkkp.hu
 - domain: video-bazis.com
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/05/Dancing-Lizard-Man.gif
+  image: lizard
   alert: HOAX ALERT!
   auditor: mkkp.hu
 - domain: video-perc.net
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/05/Dancing-Lizard-Man.gif
+  image: lizard
   alert: HOAX ALERT!
   auditor: mkkp.hu
 - domain: videohirek.com
-  image: https://mkkp.lazos.me/putinalert/dance.gif
+  image: putin
   alert: PUTIN ALERT
   auditor: mkkp.hu
 - domain: videojohny.eu
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/05/Dancing-Lizard-Man.gif
+  image: lizard
   alert: HOAX ALERT!
   auditor: mkkp.hu
 - domain: videopista.eu
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/05/Dancing-Lizard-Man.gif
+  image: lizard
   alert: HOAX ALERT!
   auditor: mkkp.hu
 - domain: vidnline.com
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/05/Dancing-Lizard-Man.gif
+  image: lizard
   alert: HOAX ALERT!
   auditor: mkkp.hu
 - domain: vilagfigyelo.com
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/05/Dancing-Lizard-Man.gif
+  image: lizard
   alert: HOAX ALERT!
   auditor: mkkp.hu
 - domain: vilaghalo.info
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/05/Dancing-Lizard-Man.gif
+  image: lizard
   alert: HOAX ALERT!
   auditor: mkkp.hu
 - domain: vilaghelyzete.blogspot.com
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/05/Dancing-Lizard-Man.gif
+  image: lizard
   alert: HOAX ALERT!
   auditor: mkkp.hu
 - domain: vilaghelyzete.com
-  image: https://mkkp.lazos.me/putinalert/dance.gif
+  image: putin
   alert: HOAX ALERT!
   auditor: mkkp.hu
 - domain: vilaginfo.me
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/05/Dancing-Lizard-Man.gif
+  image: lizard
   alert: HOAX ALERT!
   auditor: mkkp.hu
 - domain: vilagkep.info
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/05/Dancing-Lizard-Man.gif
+  image: lizard
   alert: HOAX ALERT!
   auditor: mkkp.hu
 - domain: vilaglato.info
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/05/Dancing-Lizard-Man.gif
+  image: lizard
   alert: HOAX ALERT!
   auditor: mkkp.hu
 - domain: vilagom.hu
-  image: https://mkkp.lazos.me/putinalert/dance.gif
+  image: putin
   alert: PUTIN ALERT
   auditor: mkkp.hu
 - domain: vilagpolgarok.blogspot.hu
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/05/Dancing-Lizard-Man.gif
+  image: lizard
   alert: HOAX ALERT!
   auditor: mkkp.hu
 - domain: vilagpolgarok.hu
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/05/Dancing-Lizard-Man.gif
+  image: lizard
   alert: HOAX ALERT!
   auditor: mkkp.hu
 - domain: vilagszem.club
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/05/Dancing-Lizard-Man.gif
+  image: lizard
   alert: HOAX ALERT!
   auditor: mkkp.hu
 - domain: vilagunk.hu
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/05/Dancing-Lizard-Man.gif
+  image: lizard
   alert: HOAX ALERT!
   auditor: mkkp.hu
 - domain: webhir.com
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/05/Dancing-Lizard-Man.gif
+  image: lizard
   alert: HOAX ALERT!
   auditor: mkkp.hu
 - domain: weeklyworldnews.com
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/05/Dancing-Lizard-Man.gif
+  image: lizard
   alert: HOAX ALERT!
   auditor: mkkp.hu
 - domain: xcore.in
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/05/Dancing-Lizard-Man.gif
+  image: lizard
   alert: HOAX ALERT!
   auditor: mkkp.hu
 - domain: xcore.in
-  image: https://mkkp.lazos.me/putinalert/dance.gif
+  image: putin
   alert: PUTIN ALERT
   auditor: mkkp.hu
 - domain: xsense.net
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/05/Dancing-Lizard-Man.gif
+  image: lizard
   alert: HOAX ALERT!
   auditor: mkkp.hu
 - domain: zaol.hu
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/06/orbanWS.gif
+  image: lazar
   alert: KORMÁNYPROPAGANDA ALERT!
   auditor: mkkp.hu
-- domain: http://olkt.net
-  image: https://ketfarkukutya.mkkp.party/wp-content/uploads/2020/02/Webp.net-gifmaker.gif?fbclid=IwAR3oN7TzKW2splu1_j_z407BSZiD-t2xQLtTyoZRLzRkhNCVx_Kpd1lxo3s
+- domain: olkt.net
+  image: lizard
   alert: HOAX ALERT!
   auditor: mkkp.hu
-- domain: vodafone.lucky-winner-blog.com/hu/vodafone/env/1/s20-e1-p-dns.php?lpkey=1502923415ba671b10&uclick=gxtlib7v&uclickhash=gxtlib7v-gxtlib7v-pmhq-0-xsj2-6j15-6joc-e7f7bf#
-  image: https://ketfarkukutya.mkkp.party/wp-content/uploads/2020/02/rigobcsai.gif?fbclid=IwAR3ZidHHLeyLThqjKA36gzH4PRepso_MxtPmZ4e-TwjcvaCxOE-eP1P5SVk
-  alert: CSALÁS, NE DŐLJ BE!
-  auditor: mkkp.hu
-- domain: playspotz.com/registration?theme=m-2-sungs20X&v_id=6043b4b9-99c4-bd26-5c0e-bf4264ea7053&page=m-2-sungs20&clickid=88abc51bb12d4493b991b5dea12668ee&pubid=4581_5&a_aid=365dshtb44
-  image: https://ketfarkukutya.mkkp.party/wp-content/uploads/2020/02/rigobcsai.gif?fbclid=IwAR3ZidHHLeyLThqjKA36gzH4PRepso_MxtPmZ4e-TwjcvaCxOE-eP1P5SVk
-  alert: CSALÁS, NE DŐLJ BE!
-  auditor: mkkp.hu
 - domain: bekezdes.co
-  image: https://mkkp.lazos.me/putinalert/dance.gif
+  image: putin
   alert: ÁLHÍR, keress más forrást!
   auditor: mkkp.hu
 - domain: metropol.hu
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/06/orbanWS.gif
+  image: lazar
   alert: KORMÁNYPROPAGANDA ALERT!
   auditor: mkkp.hu
-- domain: https://www.alternativhirek.com/
-  image: https://mkkp.lazos.me/putinalert/dance.gif
+- domain: www.alternativhirek.com
+  image: putin
   alert: HOAX ALERT!
   auditor: mkkp.hu
-- domain: http://www.nemzetihirek.com/
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/05/Dancing-Lizard-Man.gif
+- domain: www.nemzetihirek.com
+  image: lizard
   alert: HOAX ALERT!
   auditor: mkkp.hu
 - domain: kisalfold.hu
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/06/orbanWS.gif
+  image: lazar
   alert: KORMÁNYPROPAGANDA ALERT!
   auditor: mkkp.hu
 - domain: metropol.hu
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/06/orbanWS.gif
+  image: lazar
   alert: KORMÁNYPROPAGANDA ALERT!
   auditor: mkkp.hu
 - domain: kimondottigazsagok.com
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/05/Dancing-Lizard-Man.gif
+  image: lizard
   alert: HOAX ALERT!
   auditor: mkkp.hu
 - domain: titkokszigete.hu
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/05/Dancing-Lizard-Man.gif
+  image: lizard
   alert: HOAX ALERT!
   auditor: mkkp.hu
 - domain: avilagtitkai.com
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/05/Dancing-Lizard-Man.gif
+  image: lizard
   alert: HOAX ALERT!
   auditor: mkkp.hu
 - domain: rejtelyekszigete.com
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/05/Dancing-Lizard-Man.gif
+  image: lizard
   alert: HOAX ALERT!
   auditor: mkkp.hu
-- domain: https://fokusz.online
-  image: http://ketfarkukutya.com/wp-content/uploads/2018/05/Dancing-Lizard-Man.gif
+- domain: fokusz.online
+  image: lizard
   alert: HOAX ALERT!
   auditor: mkkp.hu
