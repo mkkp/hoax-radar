@@ -5,6 +5,7 @@ const yaml = require('js-yaml');
 const SITE_SOURCE = path.resolve(__dirname, '../static-site');
 const SITE_TARGET = path.resolve(__dirname, '../dist');
 const DB_FILE = path.resolve(__dirname, '../db/blacklist.yaml');
+const IMAGE_DEFINITIONS = path.resolve(__dirname, '../db/images.yaml');
 const JSON_FILE = path.resolve(__dirname, '../dist/blacklist.json');
 
 const storeData = (data, path) => {
@@ -40,7 +41,18 @@ try {
 // Generate API
 try {
   const doc = yaml.load(fs.readFileSync(DB_FILE, 'utf8'));
-  storeData(doc, JSON_FILE);
+  const images = yaml.load(fs.readFileSync(IMAGE_DEFINITIONS, 'utf8'));
+
+  const imageMap = {};
+  images.forEach(image => {
+    imageMap[image.name] = image.url;
+  });
+
+  const db = doc.map(entry => {
+    entry.image = imageMap[entry.image];
+    return entry;
+  });
+  storeData(db, JSON_FILE);
 } catch (e) {
   console.log(`====== Hiba a YAML file betöltése közben: ${DB_FILE} ======`);
   console.log(e);
